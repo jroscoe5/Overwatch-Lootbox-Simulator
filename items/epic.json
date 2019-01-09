@@ -1,0 +1,2437 @@
+{
+"items":[
+{
+"id": "ana-merciful",
+"quality": "epic",
+"url": "/heroes/ana/skins/ana-merciful.jpg",
+"description": "Ana's biotic rifle uses a modified version of Mercy's healing technology, though the weapon was created against the doctor's wishes."
+},
+{
+"id": "ana-shrike",
+"quality": "epic",
+"url": "/heroes/ana/skins/ana-shrike.jpg",
+"description": "Recently, Ana has operated under the alias of \"Shrike\" and is wanted for espionage, assault, and theft in Egypt."
+},
+{
+"id": "ana-ghoul",
+"quality": "epic",
+"url": "/heroes/ana/skins/ana-ghoul.jpg",
+"event": "HALLOWEEN",
+"group": "HALLOWEEN_2016"
+},
+{
+"id": "ana-tal",
+"quality": "epic",
+"url": "/heroes/ana/skins/ana-tal.jpg",
+"event": "LUNAR_NEW_YEAR",
+"group": "LUNAR_NEW_YEAR_2017"
+},
+{
+"id": "ana-disapproving",
+"quality": "epic",
+"url": "/heroes/ana/emotes/ana-disapproving.webm"
+},
+{
+"id": "ana-not-impressed",
+"quality": "epic",
+"url": "/heroes/ana/emotes/ana-not-impressed.webm"
+},
+{
+"id": "ana-protector",
+"quality": "epic",
+"url": "/heroes/ana/emotes/ana-protector.webm"
+},
+{
+"id": "ana-take-a-knee",
+"quality": "epic",
+"url": "/heroes/ana/emotes/ana-take-a-knee.webm"
+},
+{
+"id": "ana-tea-time",
+"quality": "epic",
+"url": "/heroes/ana/emotes/ana-tea-time.webm"
+},
+{
+"id": "ana-beach-ball",
+"quality": "epic",
+"url": "/heroes/ana/emotes/ana-beach-ball.webm",
+"event": "SUMMER_GAMES",
+"group": "SUMMER_GAMES_2017"
+},
+{
+"id": "ana-candy",
+"quality": "epic",
+"url": "/heroes/ana/emotes/ana-candy.webm",
+"event": "HALLOWEEN",
+"group": "HALLOWEEN_2016"
+},
+{
+"id": "ana-dance",
+"quality": "epic",
+"url": "/updates/ANNIVERSARY/emotes/ana-dance.webm",
+"event": "ANNIVERSARY",
+"group": "ANNIVERSARY_2017"
+},
+{
+"id": "ana-guardian",
+"quality": "epic",
+"url": "/heroes/ana/intros/ana-guardian.webm"
+},
+{
+"id": "ana-locked-on",
+"quality": "epic",
+"url": "/heroes/ana/intros/ana-locked-on.webm"
+},
+{
+"id": "ana-shh",
+"quality": "epic",
+"url": "/heroes/ana/intros/ana-shh.webm"
+},
+{
+"id": "ana-under-fire",
+"quality": "epic",
+"url": "/heroes/ana/intros/ana-under-fire.webm"
+},
+{
+"id": "ashe-posh",
+"quality": "epic",
+"url": "/heroes/ashe/skins/ashe-posh.jpg"
+},
+{
+"id": "ashe-thorn",
+"quality": "epic",
+"url": "/heroes/ashe/skins/ashe-thorn.jpg"
+},
+{
+"id": "ashe-winter",
+"quality": "epic",
+"url": "/heroes/ashe/skins/ashe-winter.jpg",
+"event": "WINTER_WONDERLAND",
+"group": "WINTER_WONDERLAND_2018",
+"isNew": true
+},
+{
+"id": "ashe-dynamite",
+"quality": "epic",
+"url": "/heroes/ashe/emotes/ashe-dynamite.webm"
+},
+{
+"id": "ashe-flourish",
+"quality": "epic",
+"url": "/heroes/ashe/emotes/ashe-flourish.webm"
+},
+{
+"id": "ashe-laugh",
+"quality": "epic",
+"url": "/heroes/ashe/emotes/ashe-laugh.webm"
+},
+{
+"id": "ashe-slow-clap",
+"quality": "epic",
+"url": "/heroes/ashe/emotes/ashe-slow-clap.webm"
+},
+{
+"id": "ashe-take-a-knee",
+"quality": "epic",
+"url": "/heroes/ashe/emotes/ashe-take-a-knee.webm"
+},
+{
+"id": "ashe-ashe-and-bob",
+"quality": "epic",
+"url": "/heroes/ashe/intros/ashe-ashe-and-bob.webm"
+},
+{
+"id": "ashe-bullet-walk",
+"quality": "epic",
+"url": "/heroes/ashe/intros/ashe-bullet-walk.webm"
+},
+{
+"id": "ashe-standoff",
+"quality": "epic",
+"url": "/heroes/ashe/intros/ashe-standoff.webm"
+},
+{
+"id": "bastion-defense-matrix",
+"quality": "epic",
+"url": "/heroes/bastion/skins/bastion-defense-matrix.jpg"
+},
+{
+"id": "bastion-omnic-crisis",
+"quality": "epic",
+"url": "/heroes/bastion/skins/bastion-omnic-crisis.jpg",
+"description": "During the Omnic Crisis, Bastion units fought against humans in battles around the world."
+},
+{
+"id": "bastion-blizzcon-2016",
+"quality": "epic",
+"url": "/heroes/bastion/skins/bastion-blizzcon-2016.jpg",
+"description": "Unlocked as part of the BlizzCon 2016 Goody Bag",
+"achievement": "blizzard"
+},
+{
+"id": "bastion-tombstone",
+"quality": "epic",
+"url": "/heroes/bastion/skins/bastion-tombstone.jpg",
+"event": "HALLOWEEN",
+"group": "HALLOWEEN_2016"
+},
+{
+"id": "bastion-gift-wrap",
+"quality": "epic",
+"url": "/heroes/bastion/skins/bastion-gift-wrap.jpg",
+"event": "WINTER_WONDERLAND",
+"group": "WINTER_WONDERLAND_2018",
+"isNew": true
+},
+{
+"id": "bastion-rooster",
+"quality": "epic",
+"url": "/heroes/bastion/skins/bastion-rooster.jpg",
+"event": "LUNAR_NEW_YEAR",
+"group": "LUNAR_NEW_YEAR_2017"
+},
+{
+"id": "bastion-null-sector",
+"quality": "epic",
+"url": "/heroes/bastion/skins/bastion-null-sector.jpg",
+"description": "Bastion units were reengineered and upgraded by Null Sector and deployed during the King's Row Uprising.",
+"event": "UPRISING",
+"group": "UPRISING_2017"
+},
+{
+"id": "bastion-alert-alert",
+"quality": "epic",
+"url": "/heroes/bastion/emotes/bastion-alert-alert.webm"
+},
+{
+"id": "bastion-chortle",
+"quality": "epic",
+"url": "/heroes/bastion/emotes/bastion-chortle.webm"
+},
+{
+"id": "bastion-dizzy",
+"quality": "epic",
+"url": "/heroes/bastion/emotes/bastion-dizzy.webm"
+},
+{
+"id": "bastion-rest-mode",
+"quality": "epic",
+"url": "/heroes/bastion/emotes/bastion-rest-mode.webm"
+},
+{
+"id": "bastion-robot",
+"quality": "epic",
+"url": "/heroes/bastion/emotes/bastion-robot.webm"
+},
+{
+"id": "bastion-boxing",
+"quality": "epic",
+"url": "/heroes/bastion/emotes/bastion-boxing.webm",
+"event": "SUMMER_GAMES",
+"group": "SUMMER_GAMES_2016"
+},
+{
+"id": "bastion-zombie",
+"quality": "epic",
+"url": "/heroes/bastion/emotes/bastion-zombie.webm",
+"event": "HALLOWEEN",
+"group": "HALLOWEEN_2018",
+"isNew": true
+},
+{
+"id": "bastion-robo-boogie",
+"quality": "epic",
+"url": "/updates/ANNIVERSARY/emotes/bastion-robo-boogie.webm",
+"event": "ANNIVERSARY",
+"group": "ANNIVERSARY_2017"
+},
+{
+"id": "bastion-bullet-rain",
+"quality": "epic",
+"url": "/heroes/bastion/intros/bastion-bullet-rain.webm"
+},
+{
+"id": "bastion-ganymede",
+"quality": "epic",
+"url": "/heroes/bastion/intros/bastion-ganymede.webm"
+},
+{
+"id": "bastion-on-guard",
+"quality": "epic",
+"url": "/heroes/bastion/intros/bastion-on-guard.webm"
+},
+{
+"id": "bastion-reconfigure",
+"quality": "epic",
+"url": "/heroes/bastion/intros/bastion-reconfigure.webm"
+},
+{
+"id": "brigitte-carbon-fiber",
+"quality": "epic",
+"url": "/heroes/brigitte/skins/brigitte-carbon-fiber.jpg"
+},
+{
+"id": "brigitte-ironclad",
+"quality": "epic",
+"url": "/heroes/brigitte/skins/brigitte-ironclad.jpg"
+},
+{
+"id": "brigitte-tre-kronor",
+"quality": "epic",
+"url": "/heroes/brigitte/skins/brigitte-tre-kronor.jpg",
+"event": "SUMMER_GAMES",
+"group": "SUMMER_GAMES_2018",
+"isNew": true
+},
+{
+"id": "brigitte-cheer",
+"quality": "epic",
+"url": "/heroes/brigitte/emotes/brigitte-cheer.webm"
+},
+{
+"id": "brigitte-hilarious",
+"quality": "epic",
+"url": "/heroes/brigitte/emotes/brigitte-hilarious.webm"
+},
+{
+"id": "brigitte-kneel",
+"quality": "epic",
+"url": "/heroes/brigitte/emotes/brigitte-kneel.webm"
+},
+{
+"id": "brigitte-recalibrate",
+"quality": "epic",
+"url": "/heroes/brigitte/emotes/brigitte-recalibrate.webm"
+},
+{
+"id": "brigitte-taunt",
+"quality": "epic",
+"url": "/heroes/brigitte/emotes/brigitte-taunt.webm"
+},
+{
+"id": "brigitte-dance",
+"quality": "epic",
+"url": "/updates/ANNIVERSARY/emotes/brigitte-dance.webm",
+"event": "ANNIVERSARY",
+"group": "ANNIVERSARY_2018",
+"isNew": true
+},
+{
+"id": "brigitte-defender",
+"quality": "epic",
+"url": "/heroes/brigitte/intros/brigitte-defender.webm"
+},
+{
+"id": "brigitte-flail",
+"quality": "epic",
+"url": "/heroes/brigitte/intros/brigitte-flail.webm"
+},
+{
+"id": "brigitte-rally",
+"quality": "epic",
+"url": "/heroes/brigitte/intros/brigitte-rally.webm"
+},
+{
+"id": "brigitte-shield-bash",
+"quality": "epic",
+"url": "/heroes/brigitte/intros/brigitte-shield-bash.webm",
+"event": "HALLOWEEN",
+"group": "HALLOWEEN_2018",
+"isNew": true
+},
+{
+"id": "dva-carbon-fiber",
+"quality": "epic",
+"url": "/heroes/dva/skins/dva-carbon-fiber.jpg"
+},
+{
+"id": "dva-white-rabbit",
+"quality": "epic",
+"url": "/heroes/dva/skins/dva-white-rabbit.jpg"
+},
+{
+"id": "dva-nano",
+"quality": "epic",
+"url": "/heroes/dva/skins/dva-nano.jpg",
+"description": "Unlocked by participating in D.Va's Nano Cola Challenge",
+"achievement": "blizzard"
+},
+{
+"id": "dva-taegeukgi",
+"quality": "epic",
+"url": "/heroes/dva/skins/dva-taegeukgi.jpg",
+"description": "During her time as a professional gamer, D.Va proudly represented her country in tournaments around the world.",
+"event": "SUMMER_GAMES",
+"group": "SUMMER_GAMES_2016"
+},
+{
+"id": "dva-excited",
+"quality": "epic",
+"url": "/heroes/dva/emotes/dva-excited.webm"
+},
+{
+"id": "dva-bunny-hop",
+"quality": "epic",
+"url": "/heroes/dva/emotes/dva-bunny-hop.webm"
+},
+{
+"id": "dva-heartbreaker",
+"quality": "epic",
+"url": "/heroes/dva/emotes/dva-heartbreaker.webm"
+},
+{
+"id": "dva-party-time",
+"quality": "epic",
+"url": "/heroes/dva/emotes/dva-party-time.webm"
+},
+{
+"id": "dva-bow",
+"quality": "epic",
+"url": "/heroes/dva/emotes/dva-bow.webm",
+"event": "LUNAR_NEW_YEAR",
+"group": "LUNAR_NEW_YEAR_2017"
+},
+{
+"id": "dva-dance",
+"quality": "epic",
+"url": "/updates/ANNIVERSARY/emotes/dva-dance.webm",
+"event": "ANNIVERSARY",
+"group": "ANNIVERSARY_2017"
+},
+{
+"id": "dva-eject",
+"quality": "epic",
+"url": "/heroes/dva/intros/dva-eject.webm"
+},
+{
+"id": "dva-lying-around",
+"quality": "epic",
+"url": "/heroes/dva/intros/dva-lying-around.webm"
+},
+{
+"id": "dva-meka-activated",
+"quality": "epic",
+"url": "/heroes/dva/intros/dva-meka-activated.webm"
+},
+{
+"id": "dva-selfie",
+"quality": "epic",
+"url": "/heroes/dva/intros/dva-selfie.webm",
+"event": "UPRISING",
+"group": "UPRISING_2017"
+},
+{
+"id": "doomfist-leopard",
+"quality": "epic",
+"url": "/heroes/doomfist/skins/doomfist-leopard.jpg"
+},
+{
+"id": "doomfist-painted",
+"quality": "epic",
+"url": "/heroes/doomfist/skins/doomfist-painted.jpg"
+},
+{
+"id": "doomfist-fake-out",
+"quality": "epic",
+"url": "/heroes/doomfist/emotes/doomfist-fake-out.webm"
+},
+{
+"id": "doomfist-intimidate",
+"quality": "epic",
+"url": "/heroes/doomfist/emotes/doomfist-intimidate.webm"
+},
+{
+"id": "doomfist-ready-for-battle",
+"quality": "epic",
+"url": "/heroes/doomfist/emotes/doomfist-ready-for-battle.webm"
+},
+{
+"id": "doomfist-take-a-knee",
+"quality": "epic",
+"url": "/heroes/doomfist/emotes/doomfist-take-a-knee.webm"
+},
+{
+"id": "doomfist-thumbs-down",
+"quality": "epic",
+"url": "/heroes/doomfist/emotes/doomfist-thumbs-down.webm"
+},
+{
+"id": "doomfist-crushing",
+"quality": "epic",
+"url": "/heroes/doomfist/emotes/doomfist-crushing.webm",
+"event": "LUNAR_NEW_YEAR",
+"group": "LUNAR_NEW_YEAR_2018",
+"isNew": true
+},
+{
+"id": "doomfist-dance",
+"quality": "epic",
+"url": "/updates/ANNIVERSARY/emotes/doomfist-dance.webm",
+"event": "ANNIVERSARY",
+"group": "ANNIVERSARY_2018",
+"isNew": true
+},
+{
+"id": "doomfist-meteor",
+"quality": "epic",
+"url": "/heroes/doomfist/intros/doomfist-meteor.webm"
+},
+{
+"id": "doomfist-one-punch",
+"quality": "epic",
+"url": "/heroes/doomfist/intros/doomfist-one-punch.webm"
+},
+{
+"id": "doomfist-uppercut",
+"quality": "epic",
+"url": "/heroes/doomfist/intros/doomfist-uppercut.webm"
+},
+{
+"id": "doomfist-combo",
+"quality": "epic",
+"url": "/heroes/doomfist/intros/doomfist-combo.webm",
+"event": "UPRISING",
+"group": "UPRISING_2018",
+"isNew": true
+},
+{
+"id": "genji-carbon-fiber",
+"quality": "epic",
+"url": "/heroes/genji/skins/genji-carbon-fiber.jpg"
+},
+{
+"id": "genji-chrome",
+"quality": "epic",
+"url": "/heroes/genji/skins/genji-chrome.jpg"
+},
+{
+"id": "genji-nihon",
+"quality": "epic",
+"url": "/heroes/genji/skins/genji-nihon.jpg",
+"event": "SUMMER_GAMES",
+"group": "SUMMER_GAMES_2016"
+},
+{
+"id": "genji-amusing",
+"quality": "epic",
+"url": "/heroes/genji/emotes/genji-amusing.webm"
+},
+{
+"id": "genji-challenge",
+"quality": "epic",
+"url": "/heroes/genji/emotes/genji-challenge.webm"
+},
+{
+"id": "genji-cutting-edge",
+"quality": "epic",
+"url": "/heroes/genji/emotes/genji-cutting-edge.webm"
+},
+{
+"id": "genji-meditate",
+"quality": "epic",
+"url": "/heroes/genji/emotes/genji-meditate.webm"
+},
+{
+"id": "genji-salute",
+"quality": "epic",
+"url": "/heroes/genji/emotes/genji-salute.webm"
+},
+{
+"id": "genji-whirlwind",
+"quality": "epic",
+"url": "/heroes/genji/emotes/genji-whirlwind.webm"
+},
+{
+"id": "genji-paper-stars",
+"quality": "epic",
+"url": "/heroes/genji/emotes/genji-paper-stars.webm",
+"event": "WINTER_WONDERLAND",
+"group": "WINTER_WONDERLAND_2018",
+"isNew": true
+},
+{
+"id": "genji-dance",
+"quality": "epic",
+"url": "/updates/ANNIVERSARY/emotes/genji-dance.webm",
+"event": "ANNIVERSARY",
+"group": "ANNIVERSARY_2017"
+},
+{
+"id": "genji-shuriken",
+"quality": "epic",
+"url": "/heroes/genji/intros/genji-shuriken.webm"
+},
+{
+"id": "genji-unsheathing-the-sword",
+"quality": "epic",
+"url": "/heroes/genji/intros/genji-unsheathing-the-sword.webm"
+},
+{
+"id": "genji-warriors-salute",
+"quality": "epic",
+"url": "/heroes/genji/intros/genji-warriors-salute.webm"
+},
+{
+"id": "genji-pumpkin-carving",
+"quality": "epic",
+"url": "/heroes/genji/intros/genji-pumpkin-carving.webm",
+"event": "HALLOWEEN",
+"group": "HALLOWEEN_2016"
+},
+{
+"id": "hanzo-cloud",
+"quality": "epic",
+"url": "/heroes/hanzo/skins/hanzo-cloud.jpg"
+},
+{
+"id": "hanzo-dragon",
+"quality": "epic",
+"url": "/heroes/hanzo/skins/hanzo-dragon.jpg"
+},
+{
+"id": "hanzo-demon",
+"quality": "epic",
+"url": "/heroes/hanzo/skins/hanzo-demon.jpg",
+"event": "HALLOWEEN",
+"group": "HALLOWEEN_2016"
+},
+{
+"id": "hanzo-beckon",
+"quality": "epic",
+"url": "/heroes/hanzo/emotes/hanzo-beckon.webm"
+},
+{
+"id": "hanzo-brush-shoulder",
+"quality": "epic",
+"url": "/heroes/hanzo/emotes/hanzo-brush-shoulder.webm"
+},
+{
+"id": "hanzo-chuckle",
+"quality": "epic",
+"url": "/heroes/hanzo/emotes/hanzo-chuckle.webm"
+},
+{
+"id": "hanzo-meditate",
+"quality": "epic",
+"url": "/heroes/hanzo/emotes/hanzo-meditate.webm"
+},
+{
+"id": "hanzo-victory",
+"quality": "epic",
+"url": "/heroes/hanzo/emotes/hanzo-victory.webm"
+},
+{
+"id": "hanzo-training",
+"quality": "epic",
+"url": "/heroes/hanzo/emotes/hanzo-training.webm",
+"event": "UPRISING",
+"group": "UPRISING_2017"
+},
+{
+"id": "hanzo-fisherman-dance",
+"quality": "epic",
+"url": "/updates/ANNIVERSARY/emotes/hanzo-fisherman-dance.webm",
+"event": "ANNIVERSARY",
+"group": "ANNIVERSARY_2017"
+},
+{
+"id": "hanzo-backflip",
+"quality": "epic",
+"url": "/heroes/hanzo/intros/hanzo-backflip.webm"
+},
+{
+"id": "hanzo-my-aim-is-true",
+"quality": "epic",
+"url": "/heroes/hanzo/intros/hanzo-my-aim-is-true.webm"
+},
+{
+"id": "hanzo-superior",
+"quality": "epic",
+"url": "/heroes/hanzo/intros/hanzo-superior.webm"
+},
+{
+"id": "hanzo-target-practice",
+"quality": "epic",
+"url": "/heroes/hanzo/intros/hanzo-target-practice.webm",
+"event": "SUMMER_GAMES",
+"group": "SUMMER_GAMES_2017"
+},
+{
+"id": "junkrat-caution",
+"quality": "epic",
+"url": "/heroes/junkrat/skins/junkrat-caution.jpg"
+},
+{
+"id": "junkrat-jailbird",
+"quality": "epic",
+"url": "/heroes/junkrat/skins/junkrat-jailbird.jpg"
+},
+{
+"id": "junkrat-toasted",
+"quality": "epic",
+"url": "/heroes/junkrat/skins/junkrat-toasted.jpg"
+},
+{
+"id": "junkrat-firework",
+"quality": "epic",
+"url": "/heroes/junkrat/skins/junkrat-firework.jpg",
+"event": "LUNAR_NEW_YEAR",
+"group": "LUNAR_NEW_YEAR_2017"
+},
+{
+"id": "junkrat-cant-deal",
+"quality": "epic",
+"url": "/heroes/junkrat/emotes/junkrat-cant-deal.webm"
+},
+{
+"id": "junkrat-juggling",
+"quality": "epic",
+"url": "/heroes/junkrat/emotes/junkrat-juggling.webm"
+},
+{
+"id": "junkrat-lounging",
+"quality": "epic",
+"url": "/heroes/junkrat/emotes/junkrat-lounging.webm"
+},
+{
+"id": "junkrat-puppet",
+"quality": "epic",
+"url": "/heroes/junkrat/emotes/junkrat-puppet.webm"
+},
+{
+"id": "junkrat-vaudeville",
+"quality": "epic",
+"url": "/heroes/junkrat/emotes/junkrat-vaudeville.webm"
+},
+{
+"id": "junkrat-dud",
+"quality": "epic",
+"url": "/heroes/junkrat/emotes/junkrat-dud.webm",
+"event": "LUNAR_NEW_YEAR",
+"group": "LUNAR_NEW_YEAR_2017"
+},
+{
+"id": "junkrat-running-rat",
+"quality": "epic",
+"url": "/updates/ANNIVERSARY/emotes/junkrat-running-rat.webm",
+"event": "ANNIVERSARY",
+"group": "ANNIVERSARY_2017"
+},
+{
+"id": "junkrat-im-flying",
+"quality": "epic",
+"url": "/heroes/junkrat/intros/junkrat-im-flying.webm"
+},
+{
+"id": "junkrat-riptire",
+"quality": "epic",
+"url": "/heroes/junkrat/intros/junkrat-riptire.webm"
+},
+{
+"id": "junkrat-unfortunate",
+"quality": "epic",
+"url": "/heroes/junkrat/intros/junkrat-unfortunate.webm"
+},
+{
+"id": "junkrat-shot-put",
+"quality": "epic",
+"url": "/heroes/junkrat/intros/junkrat-shot-put.webm",
+"event": "SUMMER_GAMES",
+"group": "SUMMER_GAMES_2016"
+},
+{
+"id": "lucio-auditiva",
+"quality": "epic",
+"url": "/heroes/lucio/skins/lucio-auditiva.jpg",
+"description": "Lúcio's latest album, Synaesthesia Auditiva, was a global hit."
+},
+{
+"id": "lucio-synaesthesia",
+"quality": "epic",
+"url": "/heroes/lucio/skins/lucio-synaesthesia.jpg",
+"description": "Lúcio's latest album, Synaesthesia Auditiva, was a global hit."
+},
+{
+"id": "lucio-andes",
+"quality": "epic",
+"url": "/heroes/lucio/skins/lucio-andes.jpg",
+"description": "When the weather gets cold, Lúcio heads to the Andes to hit the slopes.",
+"event": "WINTER_WONDERLAND",
+"group": "WINTER_WONDERLAND_2016"
+},
+{
+"id": "lucio-bitrate",
+"quality": "epic",
+"url": "/heroes/lucio/skins/lucio-bitrate.jpg",
+"event": "ANNIVERSARY",
+"group": "ANNIVERSARY_2018",
+"isNew": true
+},
+{
+"id": "lucio-capoeira",
+"quality": "epic",
+"url": "/heroes/lucio/emotes/lucio-capoeira.webm"
+},
+{
+"id": "lucio-chilling",
+"quality": "epic",
+"url": "/heroes/lucio/emotes/lucio-chilling.webm"
+},
+{
+"id": "lucio-in-the-groove",
+"quality": "epic",
+"url": "/heroes/lucio/emotes/lucio-in-the-groove.webm"
+},
+{
+"id": "lucio-knee-slapper",
+"quality": "epic",
+"url": "/heroes/lucio/emotes/lucio-knee-slapper.webm"
+},
+{
+"id": "lucio-nah",
+"quality": "epic",
+"url": "/heroes/lucio/emotes/lucio-nah.webm"
+},
+{
+"id": "lucio-juggle",
+"quality": "epic",
+"url": "/heroes/lucio/emotes/lucio-juggle.webm",
+"event": "SUMMER_GAMES",
+"group": "SUMMER_GAMES_2016"
+},
+{
+"id": "lucio-smooth",
+"quality": "epic",
+"url": "/updates/ANNIVERSARY/emotes/lucio-smooth.webm",
+"event": "ANNIVERSARY",
+"group": "ANNIVERSARY_2017"
+},
+{
+"id": "lucio-drop-the-beat",
+"quality": "epic",
+"url": "/heroes/lucio/intros/lucio-drop-the-beat.webm"
+},
+{
+"id": "lucio-freestyle",
+"quality": "epic",
+"url": "/heroes/lucio/intros/lucio-freestyle.webm"
+},
+{
+"id": "lucio-in-the-groove",
+"quality": "epic",
+"url": "/heroes/lucio/intros/lucio-in-the-groove.webm"
+},
+{
+"id": "lucio-bicycle-kick",
+"quality": "epic",
+"url": "/heroes/lucio/intros/lucio-bicycle-kick.webm",
+"event": "SUMMER_GAMES",
+"group": "SUMMER_GAMES_2016"
+},
+{
+"id": "mccree-on-the-range",
+"quality": "epic",
+"url": "/heroes/mccree/skins/mccree-on-the-range.jpg"
+},
+{
+"id": "mccree-royal",
+"quality": "epic",
+"url": "/heroes/mccree/skins/mccree-royal.jpg"
+},
+{
+"id": "mccree-white-hat",
+"quality": "epic",
+"url": "/heroes/mccree/skins/mccree-white-hat.jpg"
+},
+{
+"id": "mccree-american",
+"quality": "epic",
+"url": "/heroes/mccree/skins/mccree-american.jpg",
+"event": "SUMMER_GAMES",
+"group": "SUMMER_GAMES_2016"
+},
+{
+"id": "mccree-undead",
+"quality": "epic",
+"url": "/heroes/mccree/skins/mccree-undead.jpg",
+"event": "HALLOWEEN",
+"group": "HALLOWEEN_2018",
+"isNew": true
+},
+{
+"id": "mccree-scrooge",
+"quality": "epic",
+"url": "/heroes/mccree/skins/mccree-scrooge.jpg",
+"event": "WINTER_WONDERLAND",
+"group": "WINTER_WONDERLAND_2016"
+},
+{
+"id": "mccree-gunspinning",
+"quality": "epic",
+"url": "/heroes/mccree/emotes/mccree-gunspinning.webm"
+},
+{
+"id": "mccree-hat-tip",
+"quality": "epic",
+"url": "/heroes/mccree/emotes/mccree-hat-tip.webm"
+},
+{
+"id": "mccree-joker",
+"quality": "epic",
+"url": "/heroes/mccree/emotes/mccree-joker.webm"
+},
+{
+"id": "mccree-spit",
+"quality": "epic",
+"url": "/heroes/mccree/emotes/mccree-spit.webm"
+},
+{
+"id": "mccree-take-a-load-off",
+"quality": "epic",
+"url": "/heroes/mccree/emotes/mccree-take-a-load-off.webm"
+},
+{
+"id": "mccree-hat-trick",
+"quality": "epic",
+"url": "/heroes/mccree/emotes/mccree-hat-trick.webm",
+"event": "WINTER_WONDERLAND",
+"group": "WINTER_WONDERLAND_2016"
+},
+{
+"id": "mccree-line-dance",
+"quality": "epic",
+"url": "/updates/ANNIVERSARY/emotes/mccree-line-dance.webm",
+"event": "ANNIVERSARY",
+"group": "ANNIVERSARY_2017"
+},
+{
+"id": "mccree-rolling-into-action",
+"quality": "epic",
+"url": "/heroes/mccree/intros/mccree-rolling-into-action.webm"
+},
+{
+"id": "mccree-the-duel",
+"quality": "epic",
+"url": "/heroes/mccree/intros/mccree-the-duel.webm"
+},
+{
+"id": "mccree-the-names-mccree",
+"quality": "epic",
+"url": "/heroes/mccree/intros/mccree-the-names-mccree.webm"
+},
+{
+"id": "mccree-spark",
+"quality": "epic",
+"url": "/heroes/mccree/intros/mccree-spark.webm",
+"event": "LUNAR_NEW_YEAR",
+"group": "LUNAR_NEW_YEAR_2018",
+"isNew": true
+},
+{
+"id": "mei-earthen",
+"quality": "epic",
+"url": "/heroes/mei/skins/mei-earthen.jpg"
+},
+{
+"id": "mei-snow-plum",
+"quality": "epic",
+"url": "/heroes/mei/skins/mei-snow-plum.jpg"
+},
+{
+"id": "mei-pumpkin",
+"quality": "epic",
+"url": "/heroes/mei/skins/mei-pumpkin.jpg",
+"event": "HALLOWEEN",
+"group": "HALLOWEEN_2018",
+"isNew": true
+},
+{
+"id": "mei-companion",
+"quality": "epic",
+"url": "/heroes/mei/emotes/mei-companion.webm"
+},
+{
+"id": "mei-giggle",
+"quality": "epic",
+"url": "/heroes/mei/emotes/mei-giggle.webm"
+},
+{
+"id": "mei-kneel",
+"quality": "epic",
+"url": "/heroes/mei/emotes/mei-kneel.webm"
+},
+{
+"id": "mei-spray",
+"quality": "epic",
+"url": "/heroes/mei/emotes/mei-spray.webm"
+},
+{
+"id": "mei-yaaaaaaaaay",
+"quality": "epic",
+"url": "/heroes/mei/emotes/mei-yaaaaaaaaay.webm"
+},
+{
+"id": "mei-table-tennis",
+"quality": "epic",
+"url": "/heroes/mei/emotes/mei-table-tennis.webm",
+"event": "SUMMER_GAMES",
+"group": "SUMMER_GAMES_2018",
+"isNew": true
+},
+{
+"id": "mei-hopping",
+"quality": "epic",
+"url": "/heroes/mei/emotes/mei-hopping.webm",
+"event": "HALLOWEEN",
+"group": "HALLOWEEN_2017"
+},
+{
+"id": "mei-snowman",
+"quality": "epic",
+"url": "/heroes/mei/emotes/mei-snowman.webm",
+"event": "WINTER_WONDERLAND",
+"group": "WINTER_WONDERLAND_2016"
+},
+{
+"id": "mei-so-excited",
+"quality": "epic",
+"url": "/heroes/mei/emotes/mei-so-excited.webm",
+"event": "LUNAR_NEW_YEAR",
+"group": "LUNAR_NEW_YEAR_2017"
+},
+{
+"id": "mei-sunny-dance",
+"quality": "epic",
+"url": "/updates/ANNIVERSARY/emotes/mei-sunny-dance.webm",
+"event": "ANNIVERSARY",
+"group": "ANNIVERSARY_2017"
+},
+{
+"id": "mei-frosty",
+"quality": "epic",
+"url": "/heroes/mei/intros/mei-frosty.webm"
+},
+{
+"id": "mei-going-up",
+"quality": "epic",
+"url": "/heroes/mei/intros/mei-going-up.webm"
+},
+{
+"id": "mei-skating-around",
+"quality": "epic",
+"url": "/heroes/mei/intros/mei-skating-around.webm"
+},
+{
+"id": "mei-ice-scream",
+"quality": "epic",
+"url": "/heroes/mei/intros/mei-ice-scream.webm",
+"event": "HALLOWEEN",
+"group": "HALLOWEEN_2016"
+},
+{
+"id": "mercy-amber",
+"quality": "epic",
+"url": "/heroes/mercy/skins/mercy-amber.jpg"
+},
+{
+"id": "mercy-cobalt",
+"quality": "epic",
+"url": "/heroes/mercy/skins/mercy-cobalt.jpg"
+},
+{
+"id": "mercy-eidgenossin",
+"quality": "epic",
+"url": "/heroes/mercy/skins/mercy-eidgenossin.jpg",
+"description": "After finishing her education, including her MD and PhD in Switzerland, Angela Ziegler continued her research and served as head of surgery in a prominent hospital in her home country.",
+"event": "SUMMER_GAMES",
+"group": "SUMMER_GAMES_2016"
+},
+{
+"id": "mercy-fortune",
+"quality": "epic",
+"url": "/heroes/mercy/skins/mercy-fortune.jpg",
+"event": "LUNAR_NEW_YEAR",
+"group": "LUNAR_NEW_YEAR_2017"
+},
+{
+"id": "mercy-applause",
+"quality": "epic",
+"url": "/heroes/mercy/emotes/mercy-applause.webm"
+},
+{
+"id": "mercy-caduceus",
+"quality": "epic",
+"url": "/heroes/mercy/emotes/mercy-caduceus.webm"
+},
+{
+"id": "mercy-no-pulse",
+"quality": "epic",
+"url": "/heroes/mercy/emotes/mercy-no-pulse.webm"
+},
+{
+"id": "mercy-parasol",
+"quality": "epic",
+"url": "/heroes/mercy/emotes/mercy-parasol.webm"
+},
+{
+"id": "mercy-relax",
+"quality": "epic",
+"url": "/heroes/mercy/emotes/mercy-relax.webm"
+},
+{
+"id": "mercy-the-best-medicine",
+"quality": "epic",
+"url": "/heroes/mercy/emotes/mercy-the-best-medicine.webm"
+},
+{
+"id": "mercy-hustle",
+"quality": "epic",
+"url": "/updates/ANNIVERSARY/emotes/mercy-hustle.webm",
+"event": "ANNIVERSARY",
+"group": "ANNIVERSARY_2017"
+},
+{
+"id": "mercy-battle-angel",
+"quality": "epic",
+"url": "/heroes/mercy/intros/mercy-battle-angel.webm"
+},
+{
+"id": "mercy-guardian-angel",
+"quality": "epic",
+"url": "/heroes/mercy/intros/mercy-guardian-angel.webm"
+},
+{
+"id": "mercy-heroes-never-die",
+"quality": "epic",
+"url": "/heroes/mercy/intros/mercy-heroes-never-die.webm"
+},
+{
+"id": "mercy-fortune",
+"quality": "epic",
+"url": "/heroes/mercy/intros/mercy-fortune.webm",
+"event": "LUNAR_NEW_YEAR",
+"group": "LUNAR_NEW_YEAR_2017"
+},
+{
+"id": "moira-ornate",
+"quality": "epic",
+"url": "/heroes/moira/skins/moira-ornate.jpg"
+},
+{
+"id": "moira-pale",
+"quality": "epic",
+"url": "/heroes/moira/skins/moira-pale.jpg"
+},
+{
+"id": "moira-eireannach",
+"quality": "epic",
+"url": "/heroes/moira/skins/moira-eireannach.jpg",
+"event": "SUMMER_GAMES",
+"group": "SUMMER_GAMES_2018",
+"isNew": true
+},
+{
+"id": "moira-at-your-service",
+"quality": "epic",
+"url": "/heroes/moira/emotes/moira-at-your-service.webm"
+},
+{
+"id": "moira-come-here",
+"quality": "epic",
+"url": "/heroes/moira/emotes/moira-come-here.webm"
+},
+{
+"id": "moira-facepalm",
+"quality": "epic",
+"url": "/heroes/moira/emotes/moira-facepalm.webm"
+},
+{
+"id": "moira-give-and-take",
+"quality": "epic",
+"url": "/heroes/moira/emotes/moira-give-and-take.webm"
+},
+{
+"id": "moira-how-amusing",
+"quality": "epic",
+"url": "/heroes/moira/emotes/moira-how-amusing.webm"
+},
+{
+"id": "moira-waiting",
+"quality": "epic",
+"url": "/heroes/moira/emotes/moira-waiting.webm"
+},
+{
+"id": "moira-dance",
+"quality": "epic",
+"url": "/updates/ANNIVERSARY/emotes/moira-dance.webm",
+"event": "ANNIVERSARY",
+"group": "ANNIVERSARY_2018",
+"isNew": true
+},
+{
+"id": "moira-coalescence",
+"quality": "epic",
+"url": "/heroes/moira/intros/moira-coalescence.webm"
+},
+{
+"id": "moira-transformation",
+"quality": "epic",
+"url": "/heroes/moira/intros/moira-transformation.webm"
+},
+{
+"id": "moira-vanishing-act",
+"quality": "epic",
+"url": "/heroes/moira/intros/moira-vanishing-act.webm"
+},
+{
+"id": "moira-serve",
+"quality": "epic",
+"url": "/heroes/moira/intros/moira-serve.webm",
+"event": "SUMMER_GAMES",
+"group": "SUMMER_GAMES_2018",
+"isNew": true
+},
+{
+"id": "orisa-camouflage",
+"quality": "epic",
+"url": "/heroes/orisa/skins/orisa-camouflage.jpg"
+},
+{
+"id": "orisa-or15",
+"quality": "epic",
+"url": "/heroes/orisa/skins/orisa-or15.jpg",
+"description": "Originally built to protect Numbani, the OR15 defense bots were destroyed and decommissioned after a battle with Doomfist. A young Efi Oladele would purchase the parts of the bots to build Orisa."
+},
+{
+"id": "orisa-cheer",
+"quality": "epic",
+"url": "/heroes/orisa/emotes/orisa-cheer.webm"
+},
+{
+"id": "orisa-halt",
+"quality": "epic",
+"url": "/heroes/orisa/emotes/orisa-halt.webm"
+},
+{
+"id": "orisa-kicking-dirt",
+"quality": "epic",
+"url": "/heroes/orisa/emotes/orisa-kicking-dirt.webm"
+},
+{
+"id": "orisa-laugh",
+"quality": "epic",
+"url": "/heroes/orisa/emotes/orisa-laugh.webm"
+},
+{
+"id": "orisa-sit",
+"quality": "epic",
+"url": "/heroes/orisa/emotes/orisa-sit.webm"
+},
+{
+"id": "orisa-dance",
+"quality": "epic",
+"url": "/updates/ANNIVERSARY/emotes/orisa-dance.webm",
+"event": "ANNIVERSARY",
+"group": "ANNIVERSARY_2017"
+},
+{
+"id": "orisa-keeping-you-safe",
+"quality": "epic",
+"url": "/heroes/orisa/intros/orisa-keeping-you-safe.webm"
+},
+{
+"id": "orisa-oh",
+"quality": "epic",
+"url": "/heroes/orisa/intros/orisa-oh.webm"
+},
+{
+"id": "orisa-supercharger",
+"quality": "epic",
+"url": "/heroes/orisa/intros/orisa-supercharger.webm"
+},
+{
+"id": "orisa-goalkeeper",
+"quality": "epic",
+"url": "/heroes/orisa/intros/orisa-goalkeeper.webm",
+"event": "SUMMER_GAMES",
+"group": "SUMMER_GAMES_2018",
+"isNew": true
+},
+{
+"id": "orisa-immovable",
+"quality": "epic",
+"url": "/heroes/orisa/intros/orisa-immovable.webm",
+"event": "UPRISING",
+"group": "UPRISING_2018",
+"isNew": true
+},
+{
+"id": "pharah-anubis",
+"quality": "epic",
+"url": "/heroes/pharah/skins/pharah-anubis.jpg",
+"description": "Pharah was assigned to protect a secure Helix AI installation in Egypt at the Temple of Anubis. While the AI was briefly able to break containment, Pharah and her team were able to subdue it."
+},
+{
+"id": "pharah-jackal",
+"quality": "epic",
+"url": "/heroes/pharah/skins/pharah-jackal.jpg"
+},
+{
+"id": "pharah-possessed",
+"quality": "epic",
+"url": "/heroes/pharah/skins/pharah-possessed.jpg",
+"event": "HALLOWEEN",
+"group": "HALLOWEEN_2016"
+},
+{
+"id": "pharah-frostbite",
+"quality": "epic",
+"url": "/heroes/pharah/skins/pharah-frostbite.jpg",
+"event": "WINTER_WONDERLAND",
+"group": "WINTER_WONDERLAND_2016"
+},
+{
+"id": "pharah-cheer",
+"quality": "epic",
+"url": "/heroes/pharah/emotes/pharah-cheer.webm"
+},
+{
+"id": "pharah-chuckle",
+"quality": "epic",
+"url": "/heroes/pharah/emotes/pharah-chuckle.webm"
+},
+{
+"id": "pharah-flourish",
+"quality": "epic",
+"url": "/heroes/pharah/emotes/pharah-flourish.webm"
+},
+{
+"id": "pharah-knuckles",
+"quality": "epic",
+"url": "/heroes/pharah/emotes/pharah-knuckles.webm"
+},
+{
+"id": "pharah-take-a-knee",
+"quality": "epic",
+"url": "/heroes/pharah/emotes/pharah-take-a-knee.webm"
+},
+{
+"id": "pharah-flair",
+"quality": "epic",
+"url": "/heroes/pharah/emotes/pharah-flair.webm",
+"event": "UPRISING",
+"group": "UPRISING_2017"
+},
+{
+"id": "pharah-rocket-guitar",
+"quality": "epic",
+"url": "/updates/ANNIVERSARY/emotes/pharah-rocket-guitar.webm",
+"event": "ANNIVERSARY",
+"group": "ANNIVERSARY_2017"
+},
+{
+"id": "pharah-barrage",
+"quality": "epic",
+"url": "/heroes/pharah/intros/pharah-barrage.webm"
+},
+{
+"id": "pharah-mission-complete",
+"quality": "epic",
+"url": "/heroes/pharah/intros/pharah-mission-complete.webm"
+},
+{
+"id": "pharah-touchdown",
+"quality": "epic",
+"url": "/heroes/pharah/intros/pharah-touchdown.webm"
+},
+{
+"id": "pharah-slam-dunk",
+"quality": "epic",
+"url": "/heroes/pharah/intros/pharah-slam-dunk.webm",
+"event": "SUMMER_GAMES",
+"group": "SUMMER_GAMES_2017"
+},
+{
+"id": "reaper-desert",
+"quality": "epic",
+"url": "/heroes/reaper/skins/reaper-desert.jpg"
+},
+{
+"id": "reaper-hellfire",
+"quality": "epic",
+"url": "/heroes/reaper/skins/reaper-hellfire.jpg"
+},
+{
+"id": "reaper-wight",
+"quality": "epic",
+"url": "/heroes/reaper/skins/reaper-wight.jpg"
+},
+{
+"id": "reaper-shiver",
+"quality": "epic",
+"url": "/heroes/reaper/skins/reaper-shiver.jpg",
+"event": "WINTER_WONDERLAND",
+"group": "WINTER_WONDERLAND_2016"
+},
+{
+"id": "reaper-cackle",
+"quality": "epic",
+"url": "/heroes/reaper/emotes/reaper-cackle.webm"
+},
+{
+"id": "reaper-not-impressed",
+"quality": "epic",
+"url": "/heroes/reaper/emotes/reaper-not-impressed.webm"
+},
+{
+"id": "reaper-shrug",
+"quality": "epic",
+"url": "/heroes/reaper/emotes/reaper-shrug.webm"
+},
+{
+"id": "reaper-slice",
+"quality": "epic",
+"url": "/heroes/reaper/emotes/reaper-slice.webm"
+},
+{
+"id": "reaper-slow-clap",
+"quality": "epic",
+"url": "/heroes/reaper/emotes/reaper-slow-clap.webm"
+},
+{
+"id": "reaper-take-a-knee",
+"quality": "epic",
+"url": "/heroes/reaper/emotes/reaper-take-a-knee.webm"
+},
+{
+"id": "reaper-dance",
+"quality": "epic",
+"url": "/updates/ANNIVERSARY/emotes/reaper-dance.webm",
+"event": "ANNIVERSARY",
+"group": "ANNIVERSARY_2017"
+},
+{
+"id": "reaper-death-blossom",
+"quality": "epic",
+"url": "/heroes/reaper/intros/reaper-death-blossom.webm"
+},
+{
+"id": "reaper-executioner",
+"quality": "epic",
+"url": "/heroes/reaper/intros/reaper-executioner.webm"
+},
+{
+"id": "reaper-shadow-step",
+"quality": "epic",
+"url": "/heroes/reaper/intros/reaper-shadow-step.webm"
+},
+{
+"id": "reaper-eternal-rest",
+"quality": "epic",
+"url": "/heroes/reaper/intros/reaper-eternal-rest.webm",
+"event": "HALLOWEEN",
+"group": "HALLOWEEN_2016"
+},
+{
+"id": "reinhardt-bundeswehr",
+"quality": "epic",
+"url": "/heroes/reinhardt/skins/reinhardt-bundeswehr.jpg",
+"description": "At a young age, Reinhardt Wilhelm enlisted in the German armed forces, seeking glory."
+},
+{
+"id": "reinhardt-paragon",
+"quality": "epic",
+"url": "/heroes/reinhardt/skins/reinhardt-paragon.jpg"
+},
+{
+"id": "reinhardt-coldhardt",
+"quality": "epic",
+"url": "/heroes/reinhardt/skins/reinhardt-coldhardt.jpg",
+"event": "HALLOWEEN",
+"group": "HALLOWEEN_2016"
+},
+{
+"id": "reinhardt-festive",
+"quality": "epic",
+"url": "/heroes/reinhardt/skins/reinhardt-festive.jpg",
+"event": "WINTER_WONDERLAND",
+"group": "WINTER_WONDERLAND_2018",
+"isNew": true
+},
+{
+"id": "reinhardt-lieutenant-wilhelm",
+"quality": "epic",
+"url": "/heroes/reinhardt/skins/reinhardt-lieutenant-wilhelm.jpg",
+"description": "Lieutenant Reinhardt Wilhelm served with distinction in his time during Overwatch, notably leading the strike team that ended the King's Row uprising.",
+"event": "UPRISING",
+"group": "UPRISING_2017"
+},
+{
+"id": "reinhardt-flex",
+"quality": "epic",
+"url": "/heroes/reinhardt/emotes/reinhardt-flex.webm"
+},
+{
+"id": "reinhardt-kneel",
+"quality": "epic",
+"url": "/heroes/reinhardt/emotes/reinhardt-kneel.webm"
+},
+{
+"id": "reinhardt-taunt",
+"quality": "epic",
+"url": "/heroes/reinhardt/emotes/reinhardt-taunt.webm"
+},
+{
+"id": "reinhardt-uproarious",
+"quality": "epic",
+"url": "/heroes/reinhardt/emotes/reinhardt-uproarious.webm"
+},
+{
+"id": "reinhardt-warriors-salute",
+"quality": "epic",
+"url": "/heroes/reinhardt/emotes/reinhardt-warriors-salute.webm"
+},
+{
+"id": "reinhardt-pumpkin-smash",
+"quality": "epic",
+"url": "/heroes/reinhardt/emotes/reinhardt-pumpkin-smash.webm",
+"event": "HALLOWEEN",
+"group": "HALLOWEEN_2016"
+},
+{
+"id": "reinhardt-sweethardt",
+"quality": "epic",
+"url": "/updates/ANNIVERSARY/emotes/reinhardt-sweethardt.webm",
+"event": "ANNIVERSARY",
+"group": "ANNIVERSARY_2017"
+},
+{
+"id": "reinhardt-charge",
+"quality": "epic",
+"url": "/heroes/reinhardt/intros/reinhardt-charge.webm"
+},
+{
+"id": "reinhardt-hammer-down",
+"quality": "epic",
+"url": "/heroes/reinhardt/intros/reinhardt-hammer-down.webm"
+},
+{
+"id": "reinhardt-more-stretching-required",
+"quality": "epic",
+"url": "/heroes/reinhardt/intros/reinhardt-more-stretching-required.webm"
+},
+{
+"id": "reinhardt-snowball-fight",
+"quality": "epic",
+"url": "/heroes/reinhardt/intros/reinhardt-snowball-fight.webm",
+"event": "WINTER_WONDERLAND",
+"group": "WINTER_WONDERLAND_2017"
+},
+{
+"id": "roadhog-pigpen",
+"quality": "epic",
+"url": "/heroes/roadhog/skins/roadhog-pigpen.jpg"
+},
+{
+"id": "roadhog-stitched",
+"quality": "epic",
+"url": "/heroes/roadhog/skins/roadhog-stitched.jpg"
+},
+{
+"id": "roadhog-rudolph",
+"quality": "epic",
+"url": "/heroes/roadhog/skins/roadhog-rudolph.jpg",
+"event": "WINTER_WONDERLAND",
+"group": "WINTER_WONDERLAND_2016"
+},
+{
+"id": "roadhog-belly-laugh",
+"quality": "epic",
+"url": "/heroes/roadhog/emotes/roadhog-belly-laugh.webm"
+},
+{
+"id": "roadhog-boo",
+"quality": "epic",
+"url": "/heroes/roadhog/emotes/roadhog-boo.webm"
+},
+{
+"id": "roadhog-can-crusher",
+"quality": "epic",
+"url": "/heroes/roadhog/emotes/roadhog-can-crusher.webm"
+},
+{
+"id": "roadhog-headbanging",
+"quality": "epic",
+"url": "/heroes/roadhog/emotes/roadhog-headbanging.webm"
+},
+{
+"id": "roadhog-tuckered-out",
+"quality": "epic",
+"url": "/heroes/roadhog/emotes/roadhog-tuckered-out.webm"
+},
+{
+"id": "roadhog-secret-friend",
+"quality": "epic",
+"url": "/heroes/roadhog/emotes/roadhog-secret-friend.webm",
+"event": "LUNAR_NEW_YEAR",
+"group": "LUNAR_NEW_YEAR_2018",
+"isNew": true
+},
+{
+"id": "roadhog-dance",
+"quality": "epic",
+"url": "/updates/ANNIVERSARY/emotes/roadhog-dance.webm",
+"event": "ANNIVERSARY",
+"group": "ANNIVERSARY_2017"
+},
+{
+"id": "roadhog-little-piggy",
+"quality": "epic",
+"url": "/heroes/roadhog/intros/roadhog-little-piggy.webm"
+},
+{
+"id": "roadhog-say-cheese",
+"quality": "epic",
+"url": "/heroes/roadhog/intros/roadhog-say-cheese.webm"
+},
+{
+"id": "roadhog-whole-hog",
+"quality": "epic",
+"url": "/heroes/roadhog/intros/roadhog-whole-hog.webm"
+},
+{
+"id": "roadhog-footsteps",
+"quality": "epic",
+"url": "/heroes/roadhog/intros/roadhog-footsteps.webm",
+"event": "HALLOWEEN",
+"group": "HALLOWEEN_2017"
+},
+{
+"id": "roadhog-feast",
+"quality": "epic",
+"url": "/heroes/roadhog/intros/roadhog-feast.webm",
+"event": "LUNAR_NEW_YEAR",
+"group": "LUNAR_NEW_YEAR_2017"
+},
+{
+"id": "soldier-76-bone",
+"quality": "epic",
+"url": "/heroes/soldier-76/skins/soldier-76-bone.jpg"
+},
+{
+"id": "soldier-76-golden",
+"quality": "epic",
+"url": "/heroes/soldier-76/skins/soldier-76-golden.jpg"
+},
+{
+"id": "soldier-76-immortal",
+"quality": "epic",
+"url": "/heroes/soldier-76/skins/soldier-76-immortal.jpg",
+"event": "HALLOWEEN",
+"group": "HALLOWEEN_2016"
+},
+{
+"id": "soldier-76-venom",
+"quality": "epic",
+"url": "/heroes/soldier-76/skins/soldier-76-venom.jpg",
+"event": "ANNIVERSARY",
+"group": "ANNIVERSARY_2018",
+"isNew": true
+},
+{
+"id": "soldier-76-amused",
+"quality": "epic",
+"url": "/heroes/soldier-76/emotes/soldier-76-amused.webm"
+},
+{
+"id": "soldier-76-fist",
+"quality": "epic",
+"url": "/heroes/soldier-76/emotes/soldier-76-fist.webm"
+},
+{
+"id": "soldier-76-i-see-you",
+"quality": "epic",
+"url": "/heroes/soldier-76/emotes/soldier-76-i-see-you.webm"
+},
+{
+"id": "soldier-76-locked-and-loaded",
+"quality": "epic",
+"url": "/heroes/soldier-76/emotes/soldier-76-locked-and-loaded.webm"
+},
+{
+"id": "soldier-76-take-a-knee",
+"quality": "epic",
+"url": "/heroes/soldier-76/emotes/soldier-76-take-a-knee.webm"
+},
+{
+"id": "soldier-76-pushups",
+"quality": "epic",
+"url": "/heroes/soldier-76/emotes/soldier-76-pushups.webm",
+"event": "UPRISING",
+"group": "UPRISING_2017"
+},
+{
+"id": "soldier-76-dance",
+"quality": "epic",
+"url": "/updates/ANNIVERSARY/emotes/soldier-76-dance.webm",
+"event": "ANNIVERSARY",
+"group": "ANNIVERSARY_2017"
+},
+{
+"id": "soldier-76-helix",
+"quality": "epic",
+"url": "/heroes/soldier-76/intros/soldier-76-helix.webm"
+},
+{
+"id": "soldier-76-lights-out",
+"quality": "epic",
+"url": "/heroes/soldier-76/intros/soldier-76-lights-out.webm"
+},
+{
+"id": "soldier-76-looking-at-you",
+"quality": "epic",
+"url": "/heroes/soldier-76/intros/soldier-76-looking-at-you.webm"
+},
+{
+"id": "soldier-76-target-rich-environment",
+"quality": "epic",
+"url": "/heroes/soldier-76/intros/soldier-76-target-rich-environment.webm"
+},
+{
+"id": "sombra-glitch",
+"quality": "epic",
+"url": "/heroes/sombra/skins/sombra-glitch.jpg"
+},
+{
+"id": "sombra-virus",
+"quality": "epic",
+"url": "/heroes/sombra/skins/sombra-virus.jpg"
+},
+{
+"id": "sombra-mexicana",
+"quality": "epic",
+"url": "/heroes/sombra/skins/sombra-mexicana.jpg",
+"event": "SUMMER_GAMES",
+"group": "SUMMER_GAMES_2018",
+"isNew": true
+},
+{
+"id": "sombra-peppermint",
+"quality": "epic",
+"url": "/heroes/sombra/skins/sombra-peppermint.jpg",
+"event": "WINTER_WONDERLAND",
+"group": "WINTER_WONDERLAND_2016"
+},
+{
+"id": "sombra-amused",
+"quality": "epic",
+"url": "/heroes/sombra/emotes/sombra-amused.webm"
+},
+{
+"id": "sombra-boop",
+"quality": "epic",
+"url": "/heroes/sombra/emotes/sombra-boop.webm"
+},
+{
+"id": "sombra-hold-on",
+"quality": "epic",
+"url": "/heroes/sombra/emotes/sombra-hold-on.webm"
+},
+{
+"id": "sombra-marioneta",
+"quality": "epic",
+"url": "/heroes/sombra/emotes/sombra-marioneta.webm"
+},
+{
+"id": "sombra-masterpiece",
+"quality": "epic",
+"url": "/heroes/sombra/emotes/sombra-masterpiece.webm"
+},
+{
+"id": "sombra-sit",
+"quality": "epic",
+"url": "/heroes/sombra/emotes/sombra-sit.webm"
+},
+{
+"id": "sombra-dance",
+"quality": "epic",
+"url": "/updates/ANNIVERSARY/emotes/sombra-dance.webm",
+"event": "ANNIVERSARY",
+"group": "ANNIVERSARY_2017"
+},
+{
+"id": "sombra-hacking",
+"quality": "epic",
+"url": "/heroes/sombra/intros/sombra-hacking.webm"
+},
+{
+"id": "sombra-pulse",
+"quality": "epic",
+"url": "/heroes/sombra/intros/sombra-pulse.webm"
+},
+{
+"id": "sombra-undetected",
+"quality": "epic",
+"url": "/heroes/sombra/intros/sombra-undetected.webm"
+},
+{
+"id": "symmetra-peacock",
+"quality": "epic",
+"url": "/heroes/symmetra/skins/symmetra-peacock.jpg"
+},
+{
+"id": "symmetra-regal",
+"quality": "epic",
+"url": "/heroes/symmetra/skins/symmetra-regal.jpg"
+},
+{
+"id": "symmetra-utopaea",
+"quality": "epic",
+"url": "/heroes/symmetra/skins/symmetra-utopaea.jpg",
+"description": "Designed by its most talented Architechs, Utopaea is the jewel of the Vishkar Corporation's developments around the world."
+},
+{
+"id": "symmetra-vampire",
+"quality": "epic",
+"url": "/heroes/symmetra/skins/symmetra-vampire.jpg",
+"event": "HALLOWEEN",
+"group": "HALLOWEEN_2016"
+},
+{
+"id": "symmetra-qipao",
+"quality": "epic",
+"url": "/heroes/symmetra/skins/symmetra-qipao.jpg",
+"event": "LUNAR_NEW_YEAR",
+"group": "LUNAR_NEW_YEAR_2017"
+},
+{
+"id": "symmetra-clap",
+"quality": "epic",
+"url": "/heroes/symmetra/emotes/symmetra-clap.webm"
+},
+{
+"id": "symmetra-flow",
+"quality": "epic",
+"url": "/heroes/symmetra/emotes/symmetra-flow.webm"
+},
+{
+"id": "symmetra-have-a-seat",
+"quality": "epic",
+"url": "/heroes/symmetra/emotes/symmetra-have-a-seat.webm"
+},
+{
+"id": "symmetra-insignificant",
+"quality": "epic",
+"url": "/heroes/symmetra/emotes/symmetra-insignificant.webm"
+},
+{
+"id": "symmetra-snicker",
+"quality": "epic",
+"url": "/heroes/symmetra/emotes/symmetra-snicker.webm"
+},
+{
+"id": "symmetra-ribbon",
+"quality": "epic",
+"url": "/heroes/symmetra/emotes/symmetra-ribbon.webm",
+"event": "SUMMER_GAMES",
+"group": "SUMMER_GAMES_2016"
+},
+{
+"id": "symmetra-dance",
+"quality": "epic",
+"url": "/updates/ANNIVERSARY/emotes/symmetra-dance.webm",
+"event": "ANNIVERSARY",
+"group": "ANNIVERSARY_2017"
+},
+{
+"id": "symmetra-askew",
+"quality": "epic",
+"url": "/heroes/symmetra/intros/symmetra-askew.webm"
+},
+{
+"id": "symmetra-dance",
+"quality": "epic",
+"url": "/heroes/symmetra/intros/symmetra-dance.webm"
+},
+{
+"id": "symmetra-my-reality",
+"quality": "epic",
+"url": "/heroes/symmetra/intros/symmetra-my-reality.webm"
+},
+{
+"id": "symmetra-snowflakes",
+"quality": "epic",
+"url": "/heroes/symmetra/intros/symmetra-snowflakes.webm",
+"event": "WINTER_WONDERLAND",
+"group": "WINTER_WONDERLAND_2016"
+},
+{
+"id": "torbjorn-cathode",
+"quality": "epic",
+"url": "/heroes/torbjorn/skins/torbjorn-cathode.jpg"
+},
+{
+"id": "torbjorn-woodclad",
+"quality": "epic",
+"url": "/heroes/torbjorn/skins/torbjorn-woodclad.jpg"
+},
+{
+"id": "torbjorn-tre-kronor",
+"quality": "epic",
+"url": "/heroes/torbjorn/skins/torbjorn-tre-kronor.jpg",
+"event": "SUMMER_GAMES",
+"group": "SUMMER_GAMES_2016"
+},
+{
+"id": "torbjorn-clicking-heels",
+"quality": "epic",
+"url": "/heroes/torbjorn/emotes/torbjorn-clicking-heels.webm"
+},
+{
+"id": "torbjorn-fisticuffs",
+"quality": "epic",
+"url": "/heroes/torbjorn/emotes/torbjorn-fisticuffs.webm"
+},
+{
+"id": "torbjorn-guffaw",
+"quality": "epic",
+"url": "/heroes/torbjorn/emotes/torbjorn-guffaw.webm"
+},
+{
+"id": "torbjorn-overload",
+"quality": "epic",
+"url": "/heroes/torbjorn/emotes/torbjorn-overload.webm"
+},
+{
+"id": "torbjorn-taking-a-break",
+"quality": "epic",
+"url": "/heroes/torbjorn/emotes/torbjorn-taking-a-break.webm"
+},
+{
+"id": "torbjorn-batter-up",
+"quality": "epic",
+"url": "/heroes/torbjorn/emotes/torbjorn-batter-up.webm",
+"event": "HALLOWEEN",
+"group": "HALLOWEEN_2017"
+},
+{
+"id": "torbjorn-my-babies",
+"quality": "epic",
+"url": "/heroes/torbjorn/emotes/torbjorn-my-babies.webm",
+"event": "WINTER_WONDERLAND",
+"group": "WINTER_WONDERLAND_2018",
+"isNew": true
+},
+{
+"id": "torbjorn-dance",
+"quality": "epic",
+"url": "/updates/ANNIVERSARY/emotes/torbjorn-dance.webm",
+"event": "ANNIVERSARY",
+"group": "ANNIVERSARY_2017"
+},
+{
+"id": "torbjorn-in-your-face",
+"quality": "epic",
+"url": "/heroes/torbjorn/intros/torbjorn-in-your-face.webm"
+},
+{
+"id": "torbjorn-refreshing",
+"quality": "epic",
+"url": "/heroes/torbjorn/intros/torbjorn-refreshing.webm"
+},
+{
+"id": "torbjorn-ride-em",
+"quality": "epic",
+"url": "/heroes/torbjorn/intros/torbjorn-ride-em.webm"
+},
+{
+"id": "torbjorn-my-baby",
+"quality": "epic",
+"url": "/heroes/torbjorn/intros/torbjorn-my-baby.webm",
+"event": "UPRISING",
+"group": "UPRISING_2017"
+},
+{
+"id": "tracer-posh",
+"quality": "epic",
+"url": "/heroes/tracer/skins/tracer-posh.jpg"
+},
+{
+"id": "tracer-sporty",
+"quality": "epic",
+"url": "/heroes/tracer/skins/tracer-sporty.jpg"
+},
+{
+"id": "tracer-rose",
+"quality": "epic",
+"url": "/heroes/tracer/skins/tracer-rose.jpg",
+"event": "LUNAR_NEW_YEAR",
+"group": "LUNAR_NEW_YEAR_2017"
+},
+{
+"id": "tracer-lightning",
+"quality": "epic",
+"url": "/heroes/tracer/skins/tracer-lightning.jpg",
+"event": "ANNIVERSARY",
+"group": "ANNIVERSARY_2018",
+"isNew": true
+},
+{
+"id": "tracer-bomb-spin",
+"quality": "epic",
+"url": "/heroes/tracer/emotes/tracer-bomb-spin.webm"
+},
+{
+"id": "tracer-cheer",
+"quality": "epic",
+"url": "/heroes/tracer/emotes/tracer-cheer.webm"
+},
+{
+"id": "tracer-finger-guns",
+"quality": "epic",
+"url": "/heroes/tracer/emotes/tracer-finger-guns.webm"
+},
+{
+"id": "tracer-having-a-laugh",
+"quality": "epic",
+"url": "/heroes/tracer/emotes/tracer-having-a-laugh.webm"
+},
+{
+"id": "tracer-sitting-around",
+"quality": "epic",
+"url": "/heroes/tracer/emotes/tracer-sitting-around.webm"
+},
+{
+"id": "tracer-spin",
+"quality": "epic",
+"url": "/heroes/tracer/emotes/tracer-spin.webm"
+},
+{
+"id": "tracer-alliance-banner",
+"quality": "epic",
+"url": "/heroes/tracer/emotes/tracer-alliance-banner.webm",
+"description": "Unlocked with purchase of World of Warcraft: Battle for Azeroth Collector's Edition or Digital Deluxe Edition",
+"achievement": "blizzard"
+},
+{
+"id": "tracer-horde-banner",
+"quality": "epic",
+"url": "/heroes/tracer/emotes/tracer-horde-banner.webm",
+"description": "Unlocked with purchase of World of Warcraft: Battle for Azeroth Collector's Edition or Digital Deluxe Edition",
+"achievement": "blizzard"
+},
+{
+"id": "tracer-charleston",
+"quality": "epic",
+"url": "/updates/ANNIVERSARY/emotes/tracer-charleston.webm",
+"event": "ANNIVERSARY",
+"group": "ANNIVERSARY_2017"
+},
+{
+"id": "tracer-backflip",
+"quality": "epic",
+"url": "/heroes/tracer/intros/tracer-backflip.webm"
+},
+{
+"id": "tracer-just-in-time",
+"quality": "epic",
+"url": "/heroes/tracer/intros/tracer-just-in-time.webm"
+},
+{
+"id": "tracer-serious-business",
+"quality": "epic",
+"url": "/heroes/tracer/intros/tracer-serious-business.webm"
+},
+{
+"id": "tracer-hurdle",
+"quality": "epic",
+"url": "/heroes/tracer/intros/tracer-hurdle.webm",
+"event": "SUMMER_GAMES",
+"group": "SUMMER_GAMES_2016"
+},
+{
+"id": "tracer-lion-dance",
+"quality": "epic",
+"url": "/heroes/tracer/intros/tracer-lion-dance.webm",
+"event": "LUNAR_NEW_YEAR",
+"group": "LUNAR_NEW_YEAR_2017"
+},
+{
+"id": "widowmaker-patina",
+"quality": "epic",
+"url": "/heroes/widowmaker/skins/widowmaker-patina.jpg"
+},
+{
+"id": "widowmaker-winter",
+"quality": "epic",
+"url": "/heroes/widowmaker/skins/widowmaker-winter.jpg"
+},
+{
+"id": "widowmaker-tricolore",
+"quality": "epic",
+"url": "/heroes/widowmaker/skins/widowmaker-tricolore.jpg",
+"event": "SUMMER_GAMES",
+"group": "SUMMER_GAMES_2016"
+},
+{
+"id": "widowmaker-spider",
+"quality": "epic",
+"url": "/heroes/widowmaker/skins/widowmaker-spider.jpg",
+"event": "HALLOWEEN",
+"group": "HALLOWEEN_2018",
+"isNew": true
+},
+{
+"id": "widowmaker-at-rest",
+"quality": "epic",
+"url": "/heroes/widowmaker/emotes/widowmaker-at-rest.webm"
+},
+{
+"id": "widowmaker-curtain-call",
+"quality": "epic",
+"url": "/heroes/widowmaker/emotes/widowmaker-curtain-call.webm"
+},
+{
+"id": "widowmaker-delighted",
+"quality": "epic",
+"url": "/heroes/widowmaker/emotes/widowmaker-delighted.webm"
+},
+{
+"id": "widowmaker-shot-dead",
+"quality": "epic",
+"url": "/heroes/widowmaker/emotes/widowmaker-shot-dead.webm"
+},
+{
+"id": "widowmaker-widows-kiss",
+"quality": "epic",
+"url": "/heroes/widowmaker/emotes/widowmaker-widows-kiss.webm"
+},
+{
+"id": "widowmaker-ballet",
+"quality": "epic",
+"url": "/updates/ANNIVERSARY/emotes/widowmaker-ballet.webm",
+"event": "ANNIVERSARY",
+"group": "ANNIVERSARY_2017"
+},
+{
+"id": "widowmaker-hanging-around",
+"quality": "epic",
+"url": "/heroes/widowmaker/intros/widowmaker-hanging-around.webm"
+},
+{
+"id": "widowmaker-i-see-you",
+"quality": "epic",
+"url": "/heroes/widowmaker/intros/widowmaker-i-see-you.webm"
+},
+{
+"id": "widowmaker-swinging-into-action",
+"quality": "epic",
+"url": "/heroes/widowmaker/intros/widowmaker-swinging-into-action.webm"
+},
+{
+"id": "widowmaker-under-the-mistletoe",
+"quality": "epic",
+"url": "/heroes/widowmaker/intros/widowmaker-under-the-mistletoe.webm",
+"event": "WINTER_WONDERLAND",
+"group": "WINTER_WONDERLAND_2016"
+},
+{
+"id": "winston-desert",
+"quality": "epic",
+"url": "/heroes/winston/skins/winston-desert.jpg"
+},
+{
+"id": "winston-horizon",
+"quality": "epic",
+"url": "/heroes/winston/skins/winston-horizon.jpg",
+"description": "Most of Winston's formative years were spent as a test subject in the Horizon Lunar Colony."
+},
+{
+"id": "winston-blizzcon-2017",
+"quality": "epic",
+"url": "/heroes/winston/skins/winston-blizzcon-2017.jpg",
+"description": "Unlocked as part of the BlizzCon 2017 In-Game Goodies",
+"achievement": "blizzard"
+},
+{
+"id": "winston-laughing-matter",
+"quality": "epic",
+"url": "/heroes/winston/emotes/winston-laughing-matter.webm"
+},
+{
+"id": "winston-monkey-business",
+"quality": "epic",
+"url": "/heroes/winston/emotes/winston-monkey-business.webm"
+},
+{
+"id": "winston-peanut-butter",
+"quality": "epic",
+"url": "/heroes/winston/emotes/winston-peanut-butter.webm"
+},
+{
+"id": "winston-roar",
+"quality": "epic",
+"url": "/heroes/winston/emotes/winston-roar.webm"
+},
+{
+"id": "winston-sitting-around",
+"quality": "epic",
+"url": "/heroes/winston/emotes/winston-sitting-around.webm"
+},
+{
+"id": "winston-shadow-puppets",
+"quality": "epic",
+"url": "/heroes/winston/emotes/winston-shadow-puppets.webm",
+"event": "HALLOWEEN",
+"group": "HALLOWEEN_2016"
+},
+{
+"id": "winston-twist",
+"quality": "epic",
+"url": "/updates/ANNIVERSARY/emotes/winston-twist.webm",
+"event": "ANNIVERSARY",
+"group": "ANNIVERSARY_2017"
+},
+{
+"id": "winston-excuse-me",
+"quality": "epic",
+"url": "/heroes/winston/intros/winston-excuse-me.webm"
+},
+{
+"id": "winston-glasses",
+"quality": "epic",
+"url": "/heroes/winston/intros/winston-glasses.webm"
+},
+{
+"id": "winston-primal-rage",
+"quality": "epic",
+"url": "/heroes/winston/intros/winston-primal-rage.webm"
+},
+{
+"id": "winston-roll",
+"quality": "epic",
+"url": "/heroes/winston/intros/winston-roll.webm"
+},
+{
+"id": "winston-pumpkin",
+"quality": "epic",
+"url": "/heroes/winston/intros/winston-pumpkin.webm",
+"event": "HALLOWEEN",
+"group": "HALLOWEEN_2018",
+"isNew": true
+},
+{
+"id": "wrecking-ball-biohazard",
+"quality": "epic",
+"url": "/heroes/wrecking-ball/skins/wrecking-ball-biohazard.jpg"
+},
+{
+"id": "wrecking-ball-wooden-ball",
+"quality": "epic",
+"url": "/heroes/wrecking-ball/skins/wrecking-ball-wooden-ball.jpg"
+},
+{
+"id": "wrecking-ball-cheer",
+"quality": "epic",
+"url": "/heroes/wrecking-ball/emotes/wrecking-ball-cheer.webm"
+},
+{
+"id": "wrecking-ball-laugh",
+"quality": "epic",
+"url": "/heroes/wrecking-ball/emotes/wrecking-ball-laugh.webm"
+},
+{
+"id": "wrecking-ball-lounge",
+"quality": "epic",
+"url": "/heroes/wrecking-ball/emotes/wrecking-ball-lounge.webm"
+},
+{
+"id": "wrecking-ball-repairs",
+"quality": "epic",
+"url": "/heroes/wrecking-ball/emotes/wrecking-ball-repairs.webm"
+},
+{
+"id": "wrecking-ball-sumo",
+"quality": "epic",
+"url": "/heroes/wrecking-ball/emotes/wrecking-ball-sumo.webm"
+},
+{
+"id": "wrecking-ball-pop-up",
+"quality": "epic",
+"url": "/heroes/wrecking-ball/intros/wrecking-ball-pop-up.webm"
+},
+{
+"id": "wrecking-ball-running",
+"quality": "epic",
+"url": "/heroes/wrecking-ball/intros/wrecking-ball-running.webm"
+},
+{
+"id": "wrecking-ball-touchdown",
+"quality": "epic",
+"url": "/heroes/wrecking-ball/intros/wrecking-ball-touchdown.webm"
+},
+{
+"id": "wrecking-ball-festive",
+"quality": "epic",
+"url": "/heroes/wrecking-ball/intros/wrecking-ball-festive.webm",
+"event": "WINTER_WONDERLAND",
+"group": "WINTER_WONDERLAND_2018",
+"isNew": true
+},
+{
+"id": "zarya-dawn",
+"quality": "epic",
+"url": "/heroes/zarya/skins/zarya-dawn.jpg"
+},
+{
+"id": "zarya-midnight",
+"quality": "epic",
+"url": "/heroes/zarya/skins/zarya-midnight.jpg"
+},
+{
+"id": "zarya-frosted",
+"quality": "epic",
+"url": "/heroes/zarya/skins/zarya-frosted.jpg",
+"event": "WINTER_WONDERLAND",
+"group": "WINTER_WONDERLAND_2016"
+},
+{
+"id": "zarya-bring-it-on",
+"quality": "epic",
+"url": "/heroes/zarya/emotes/zarya-bring-it-on.webm"
+},
+{
+"id": "zarya-comedy-gold",
+"quality": "epic",
+"url": "/heroes/zarya/emotes/zarya-comedy-gold.webm"
+},
+{
+"id": "zarya-crush-you",
+"quality": "epic",
+"url": "/heroes/zarya/emotes/zarya-crush-you.webm"
+},
+{
+"id": "zarya-pumping-iron",
+"quality": "epic",
+"url": "/heroes/zarya/emotes/zarya-pumping-iron.webm"
+},
+{
+"id": "zarya-take-a-knee",
+"quality": "epic",
+"url": "/heroes/zarya/emotes/zarya-take-a-knee.webm"
+},
+{
+"id": "zarya-dance",
+"quality": "epic",
+"url": "/updates/ANNIVERSARY/emotes/zarya-dance.webm",
+"event": "ANNIVERSARY",
+"group": "ANNIVERSARY_2017"
+},
+{
+"id": "zarya-deadlift",
+"quality": "epic",
+"url": "/heroes/zarya/intros/zarya-deadlift.webm"
+},
+{
+"id": "zarya-maximum-charge",
+"quality": "epic",
+"url": "/heroes/zarya/intros/zarya-maximum-charge.webm"
+},
+{
+"id": "zarya-this-is-strength",
+"quality": "epic",
+"url": "/heroes/zarya/intros/zarya-this-is-strength.webm"
+},
+{
+"id": "zarya-graviton-surge",
+"quality": "epic",
+"url": "/heroes/zarya/intros/zarya-graviton-surge.webm",
+"event": "UPRISING",
+"group": "UPRISING_2018",
+"isNew": true
+},
+{
+"id": "zenyatta-ascendant",
+"quality": "epic",
+"url": "/heroes/zenyatta/skins/zenyatta-ascendant.jpg"
+},
+{
+"id": "zenyatta-carbon-fiber",
+"quality": "epic",
+"url": "/heroes/zenyatta/skins/zenyatta-carbon-fiber.jpg"
+},
+{
+"id": "zenyatta-harmonious",
+"quality": "epic",
+"url": "/heroes/zenyatta/skins/zenyatta-harmonious.jpg"
+},
+{
+"id": "zenyatta-skullyatta",
+"quality": "epic",
+"url": "/heroes/zenyatta/skins/zenyatta-skullyatta.jpg",
+"event": "HALLOWEEN",
+"group": "HALLOWEEN_2016"
+},
+{
+"id": "zenyatta-focusing",
+"quality": "epic",
+"url": "/heroes/zenyatta/emotes/zenyatta-focusing.webm"
+},
+{
+"id": "zenyatta-meditate",
+"quality": "epic",
+"url": "/heroes/zenyatta/emotes/zenyatta-meditate.webm"
+},
+{
+"id": "zenyatta-round-of-applause",
+"quality": "epic",
+"url": "/heroes/zenyatta/emotes/zenyatta-round-of-applause.webm"
+},
+{
+"id": "zenyatta-taunt",
+"quality": "epic",
+"url": "/heroes/zenyatta/emotes/zenyatta-taunt.webm"
+},
+{
+"id": "zenyatta-tickled",
+"quality": "epic",
+"url": "/heroes/zenyatta/emotes/zenyatta-tickled.webm"
+},
+{
+"id": "zenyatta-snowflake",
+"quality": "epic",
+"url": "/heroes/zenyatta/emotes/zenyatta-snowflake.webm",
+"event": "WINTER_WONDERLAND",
+"group": "WINTER_WONDERLAND_2017"
+},
+{
+"id": "zenyatta-dance",
+"quality": "epic",
+"url": "/updates/ANNIVERSARY/emotes/zenyatta-dance.webm",
+"event": "ANNIVERSARY",
+"group": "ANNIVERSARY_2017"
+},
+{
+"id": "zenyatta-focused",
+"quality": "epic",
+"url": "/heroes/zenyatta/intros/zenyatta-focused.webm"
+},
+{
+"id": "zenyatta-harmony-and-discord",
+"quality": "epic",
+"url": "/heroes/zenyatta/intros/zenyatta-harmony-and-discord.webm"
+},
+{
+"id": "zenyatta-transcendence",
+"quality": "epic",
+"url": "/heroes/zenyatta/intros/zenyatta-transcendence.webm"
+},
+{
+"id": "zenyatta-perspective",
+"quality": "epic",
+"url": "/heroes/zenyatta/intros/zenyatta-perspective.webm",
+"event": "UPRISING",
+"group": "UPRISING_2017"
+}
+]
+}

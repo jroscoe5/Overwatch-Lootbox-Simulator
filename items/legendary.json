@@ -1,0 +1,1577 @@
+{
+"items":[
+{
+"id": "ana-captain-amari",
+"quality": "legendary",
+"url": "/heroes/ana/skins/ana-captain-amari.jpg",
+"description": "Captain Ana Amari was Strike Commander Morrison's second in command of Overwatch."
+},
+{
+"id": "ana-horus",
+"quality": "legendary",
+"url": "/heroes/ana/skins/ana-horus.jpg",
+"description": "Ana's call sign was \"Horus\" when she served in the Egyptian military during the Omnic Crisis."
+},
+{
+"id": "ana-wadjet",
+"quality": "legendary",
+"url": "/heroes/ana/skins/ana-wadjet.jpg"
+},
+{
+"id": "ana-wasteland",
+"quality": "legendary",
+"url": "/heroes/ana/skins/ana-wasteland.jpg"
+},
+{
+"id": "ana-cabana",
+"quality": "legendary",
+"url": "/heroes/ana/skins/ana-cabana.jpg",
+"event": "SUMMER_GAMES",
+"group": "SUMMER_GAMES_2018",
+"isNew": true
+},
+{
+"id": "ana-corsair",
+"quality": "legendary",
+"url": "/heroes/ana/skins/ana-corsair.jpg",
+"event": "HALLOWEEN",
+"group": "HALLOWEEN_2017"
+},
+{
+"id": "ana-snow-owl",
+"quality": "legendary",
+"url": "/heroes/ana/skins/ana-snow-owl.jpg",
+"event": "WINTER_WONDERLAND",
+"group": "WINTER_WONDERLAND_2017"
+},
+{
+"id": "ashe-gangster",
+"quality": "legendary",
+"url": "/heroes/ashe/skins/ashe-gangster.jpg"
+},
+{
+"id": "ashe-jungle",
+"quality": "legendary",
+"url": "/heroes/ashe/skins/ashe-jungle.jpg"
+},
+{
+"id": "ashe-mobster",
+"quality": "legendary",
+"url": "/heroes/ashe/skins/ashe-mobster.jpg"
+},
+{
+"id": "ashe-safari",
+"quality": "legendary",
+"url": "/heroes/ashe/skins/ashe-safari.jpg"
+},
+{
+"id": "bastion-antique",
+"quality": "legendary",
+"url": "/heroes/bastion/skins/bastion-antique.jpg"
+},
+{
+"id": "bastion-gearbot",
+"quality": "legendary",
+"url": "/heroes/bastion/skins/bastion-gearbot.jpg"
+},
+{
+"id": "bastion-steambot",
+"quality": "legendary",
+"url": "/heroes/bastion/skins/bastion-steambot.jpg"
+},
+{
+"id": "bastion-woodbot",
+"quality": "legendary",
+"url": "/heroes/bastion/skins/bastion-woodbot.jpg"
+},
+{
+"id": "bastion-overgrown",
+"quality": "legendary",
+"url": "/heroes/bastion/skins/bastion-overgrown.jpg",
+"description": "Damaged in one of the battles of the Omnic Crisis, this lone Bastion unit was reactivated in the Black Forest near Eichenwalde years later.",
+"achievement": "blizzard"
+},
+{
+"id": "bastion-avalanche",
+"quality": "legendary",
+"url": "/heroes/bastion/skins/bastion-avalanche.jpg",
+"event": "WINTER_WONDERLAND",
+"group": "WINTER_WONDERLAND_2017"
+},
+{
+"id": "bastion-dune-buggy",
+"quality": "legendary",
+"url": "/heroes/bastion/skins/bastion-dune-buggy.jpg",
+"event": "ANNIVERSARY",
+"group": "ANNIVERSARY_2017"
+},
+{
+"id": "bastion-stealth",
+"quality": "legendary",
+"url": "/heroes/bastion/skins/bastion-stealth.jpg",
+"event": "ANNIVERSARY",
+"group": "ANNIVERSARY_2018",
+"isNew": true
+},
+{
+"id": "brigitte-engineer",
+"quality": "legendary",
+"url": "/heroes/brigitte/skins/brigitte-engineer.jpg",
+"description": "Before taking up arms, Brigitte planned to pursue a career as an engineer who specialized  in the creation of armor and other defensive systems."
+},
+{
+"id": "brigitte-mechanic",
+"quality": "legendary",
+"url": "/heroes/brigitte/skins/brigitte-mechanic.jpg",
+"description": "Before taking up arms, Brigitte planned to pursue a career as an engineer who specialized  in the creation of armor and other defensive systems."
+},
+{
+"id": "brigitte-mani",
+"quality": "legendary",
+"url": "/heroes/brigitte/skins/brigitte-mani.jpg"
+},
+{
+"id": "brigitte-sol",
+"quality": "legendary",
+"url": "/heroes/brigitte/skins/brigitte-sol.jpg"
+},
+{
+"id": "brigitte-shieldmaiden",
+"quality": "legendary",
+"url": "/heroes/brigitte/skins/brigitte-shieldmaiden.jpg",
+"event": "ANNIVERSARY",
+"group": "ANNIVERSARY_2018",
+"isNew": true
+},
+{
+"id": "dva-bva",
+"quality": "legendary",
+"url": "/heroes/dva/skins/dva-bva.jpg"
+},
+{
+"id": "dva-black-cat",
+"quality": "legendary",
+"url": "/heroes/dva/skins/dva-black-cat.jpg"
+},
+{
+"id": "dva-junebug",
+"quality": "legendary",
+"url": "/heroes/dva/skins/dva-junebug.jpg"
+},
+{
+"id": "dva-junker",
+"quality": "legendary",
+"url": "/heroes/dva/skins/dva-junker.jpg",
+"description": "Mech battles are one of the most popular forms of entertainment in Junkertown."
+},
+{
+"id": "dva-officer",
+"quality": "legendary",
+"url": "/heroes/dva/skins/dva-officer.jpg"
+},
+{
+"id": "dva-scavenger",
+"quality": "legendary",
+"url": "/heroes/dva/skins/dva-scavenger.jpg",
+"description": "Mech battles are one of the most popular forms of entertainment in Junkertown."
+},
+{
+"id": "dva-waveracer",
+"quality": "legendary",
+"url": "/heroes/dva/skins/dva-waveracer.jpg",
+"event": "SUMMER_GAMES",
+"group": "SUMMER_GAMES_2018",
+"isNew": true
+},
+{
+"id": "dva-palanquin",
+"quality": "legendary",
+"url": "/heroes/dva/skins/dva-palanquin.jpg",
+"event": "LUNAR_NEW_YEAR",
+"group": "LUNAR_NEW_YEAR_2017"
+},
+{
+"id": "dva-cruiser",
+"quality": "legendary",
+"url": "/heroes/dva/skins/dva-cruiser.jpg",
+"event": "ANNIVERSARY",
+"group": "ANNIVERSARY_2017"
+},
+{
+"id": "dva-game-on",
+"quality": "legendary",
+"url": "/heroes/dva/emotes/dva-game-on.webm"
+},
+{
+"id": "doomfist-avatar",
+"quality": "legendary",
+"url": "/heroes/doomfist/skins/doomfist-avatar.jpg"
+},
+{
+"id": "doomfist-blackhand",
+"quality": "legendary",
+"url": "/heroes/doomfist/skins/doomfist-blackhand.jpg"
+},
+{
+"id": "doomfist-caution",
+"quality": "legendary",
+"url": "/heroes/doomfist/skins/doomfist-caution.jpg",
+"description": "After losing his arm in the aftermath of the Omnic Crisis, Doomfist turned to cybernetics to recover and become even stronger than before."
+},
+{
+"id": "doomfist-irin",
+"quality": "legendary",
+"url": "/heroes/doomfist/skins/doomfist-irin.jpg",
+"description": "After losing his arm in the aftermath of the Omnic Crisis, Doomfist turned to cybernetics to recover and become even stronger than before."
+},
+{
+"id": "doomfist-spirit",
+"quality": "legendary",
+"url": "/heroes/doomfist/skins/doomfist-spirit.jpg"
+},
+{
+"id": "doomfist-swamp-monster",
+"quality": "legendary",
+"url": "/heroes/doomfist/skins/doomfist-swamp-monster.jpg",
+"event": "HALLOWEEN",
+"group": "HALLOWEEN_2018",
+"isNew": true
+},
+{
+"id": "doomfist-talon",
+"quality": "legendary",
+"url": "/heroes/doomfist/skins/doomfist-talon.jpg",
+"description": "Doomfist rose in power in Talon after killing his mentor, Akinjide Adeyemi, the Scourge of Numbani.",
+"event": "UPRISING",
+"group": "UPRISING_2018",
+"isNew": true
+},
+{
+"id": "doomfist-formal",
+"quality": "legendary",
+"url": "/heroes/doomfist/skins/doomfist-formal.jpg",
+"event": "ANNIVERSARY",
+"group": "ANNIVERSARY_2018",
+"isNew": true
+},
+{
+"id": "genji-bedouin",
+"quality": "legendary",
+"url": "/heroes/genji/skins/genji-bedouin.jpg",
+"description": "After leaving Overwatch, Genji wandered the world, trying to come to peace with his cyborg body."
+},
+{
+"id": "genji-nomad",
+"quality": "legendary",
+"url": "/heroes/genji/skins/genji-nomad.jpg",
+"description": "After leaving Overwatch, Genji wandered the world, trying to come to peace with his cyborg body."
+},
+{
+"id": "genji-oni",
+"quality": "legendary",
+"url": "/heroes/genji/skins/genji-oni.jpg"
+},
+{
+"id": "genji-sparrow",
+"quality": "legendary",
+"url": "/heroes/genji/skins/genji-sparrow.jpg",
+"description": "In his youth, Genji's father, Sojiro, gave him the diminutive nickname, \"Sparrow.\""
+},
+{
+"id": "genji-young-genji",
+"quality": "legendary",
+"url": "/heroes/genji/skins/genji-young-genji.jpg",
+"description": "The younger scion of the Shimada clan, Genji had little interest in carrying on the family's business, and spent his days on frivolous pursuits."
+},
+{
+"id": "genji-baihu",
+"quality": "legendary",
+"url": "/heroes/genji/skins/genji-baihu.jpg",
+"event": "LUNAR_NEW_YEAR",
+"group": "LUNAR_NEW_YEAR_2018",
+"isNew": true
+},
+{
+"id": "genji-blackwatch",
+"quality": "legendary",
+"url": "/heroes/genji/skins/genji-blackwatch.jpg",
+"description": "After agreeing to aid the organization, Genji was upgraded extensively by Overwatch's cyberneticists.",
+"event": "UPRISING",
+"group": "UPRISING_2017"
+},
+{
+"id": "genji-sentai",
+"quality": "legendary",
+"url": "/heroes/genji/skins/genji-sentai.jpg",
+"event": "ANNIVERSARY",
+"group": "ANNIVERSARY_2017"
+},
+{
+"id": "hanzo-kabuki",
+"quality": "legendary",
+"url": "/heroes/hanzo/skins/hanzo-kabuki.jpg"
+},
+{
+"id": "hanzo-lone-wolf",
+"quality": "legendary",
+"url": "/heroes/hanzo/skins/hanzo-lone-wolf.jpg"
+},
+{
+"id": "hanzo-okami",
+"quality": "legendary",
+"url": "/heroes/hanzo/skins/hanzo-okami.jpg"
+},
+{
+"id": "hanzo-young-hanzo",
+"quality": "legendary",
+"url": "/heroes/hanzo/skins/hanzo-young-hanzo.jpg",
+"description": "Hanzo was the son of the former master of the Shimada clan. He had been groomed to take over leadership of the family as his father's successor."
+},
+{
+"id": "hanzo-young-master",
+"quality": "legendary",
+"url": "/heroes/hanzo/skins/hanzo-young-master.jpg",
+"description": "Hanzo was the son of the former master of the Shimada clan. He had been groomed to take over leadership of the family as his father's successor."
+},
+{
+"id": "hanzo-casual",
+"quality": "legendary",
+"url": "/heroes/hanzo/skins/hanzo-casual.jpg",
+"event": "WINTER_WONDERLAND",
+"group": "WINTER_WONDERLAND_2017"
+},
+{
+"id": "hanzo-scion",
+"quality": "legendary",
+"url": "/heroes/hanzo/skins/hanzo-scion.jpg",
+"description": "Over the centuries, the Shimada clan grew to profit from a lucrative trade in arms and other illegal substances.",
+"event": "UPRISING",
+"group": "UPRISING_2018",
+"isNew": true
+},
+{
+"id": "hanzo-cyberninja",
+"quality": "legendary",
+"url": "/heroes/hanzo/skins/hanzo-cyberninja.jpg",
+"event": "ANNIVERSARY",
+"group": "ANNIVERSARY_2017"
+},
+{
+"id": "junkrat-fool",
+"quality": "legendary",
+"url": "/heroes/junkrat/skins/junkrat-fool.jpg"
+},
+{
+"id": "junkrat-hayseed",
+"quality": "legendary",
+"url": "/heroes/junkrat/skins/junkrat-hayseed.jpg"
+},
+{
+"id": "junkrat-jester",
+"quality": "legendary",
+"url": "/heroes/junkrat/skins/junkrat-jester.jpg"
+},
+{
+"id": "junkrat-scarecrow",
+"quality": "legendary",
+"url": "/heroes/junkrat/skins/junkrat-scarecrow.jpg"
+},
+{
+"id": "junkrat-cricket",
+"quality": "legendary",
+"url": "/heroes/junkrat/skins/junkrat-cricket.jpg",
+"description": "Junkrat gives new meaning to \"the Ashes.\"",
+"event": "SUMMER_GAMES",
+"group": "SUMMER_GAMES_2017"
+},
+{
+"id": "junkrat-dr-junkenstein",
+"quality": "legendary",
+"url": "/heroes/junkrat/skins/junkrat-dr-junkenstein.jpg",
+"description": "As the tale goes, Dr. Junkenstein made a deal with the Witch of the Wilds in exchange for the secret to creating life. But his triumph was short lived as he was slain by four wanderers in Adlersbrunn.",
+"event": "HALLOWEEN",
+"group": "HALLOWEEN_2016"
+},
+{
+"id": "junkrat-beachrat",
+"quality": "legendary",
+"url": "/heroes/junkrat/skins/junkrat-beachrat.jpg",
+"event": "WINTER_WONDERLAND",
+"group": "WINTER_WONDERLAND_2017"
+},
+{
+"id": "junkrat-krampus",
+"quality": "legendary",
+"url": "/heroes/junkrat/skins/junkrat-krampus.jpg",
+"event": "WINTER_WONDERLAND",
+"group": "WINTER_WONDERLAND_2018",
+"isNew": true
+},
+{
+"id": "junkrat-buccaneer",
+"quality": "legendary",
+"url": "/heroes/junkrat/skins/junkrat-buccaneer.jpg",
+"event": "ANNIVERSARY",
+"group": "ANNIVERSARY_2018",
+"isNew": true
+},
+{
+"id": "lucio-breakaway",
+"quality": "legendary",
+"url": "/heroes/lucio/skins/lucio-breakaway.jpg"
+},
+{
+"id": "lucio-capoeira",
+"quality": "legendary",
+"url": "/heroes/lucio/skins/lucio-capoeira.jpg"
+},
+{
+"id": "lucio-hippityhop",
+"quality": "legendary",
+"url": "/heroes/lucio/skins/lucio-hippityhop.jpg"
+},
+{
+"id": "lucio-ribbit",
+"quality": "legendary",
+"url": "/heroes/lucio/skins/lucio-ribbit.jpg"
+},
+{
+"id": "lucio-slapshot",
+"quality": "legendary",
+"url": "/heroes/lucio/skins/lucio-slapshot.jpg"
+},
+{
+"id": "lucio-selecao",
+"quality": "legendary",
+"url": "/heroes/lucio/skins/lucio-selecao.jpg",
+"description": "When Lúcio was younger, in addition to his first love, hockey, he also found the time to play football with the other kids in Rio de Janeiro.",
+"event": "SUMMER_GAMES",
+"group": "SUMMER_GAMES_2016"
+},
+{
+"id": "lucio-striker",
+"quality": "legendary",
+"url": "/heroes/lucio/skins/lucio-striker.jpg",
+"description": "When Lúcio was younger, in addition to his first love, hockey, he also found the time to play football with the other kids in Rio de Janeiro.",
+"event": "SUMMER_GAMES",
+"group": "SUMMER_GAMES_2016"
+},
+{
+"id": "lucio-snow-fox",
+"quality": "legendary",
+"url": "/heroes/lucio/skins/lucio-snow-fox.jpg",
+"event": "WINTER_WONDERLAND",
+"group": "WINTER_WONDERLAND_2018",
+"isNew": true
+},
+{
+"id": "lucio-equalizer",
+"quality": "legendary",
+"url": "/heroes/lucio/skins/lucio-equalizer.jpg",
+"event": "UPRISING",
+"group": "UPRISING_2018",
+"isNew": true
+},
+{
+"id": "lucio-jazzy",
+"quality": "legendary",
+"url": "/heroes/lucio/skins/lucio-jazzy.jpg",
+"event": "ANNIVERSARY",
+"group": "ANNIVERSARY_2017"
+},
+{
+"id": "lucio-dance-party",
+"quality": "legendary",
+"url": "/heroes/lucio/emotes/lucio-dance-party.webm",
+"achievement": "blizzard"
+},
+{
+"id": "mccree-gambler",
+"quality": "legendary",
+"url": "/heroes/mccree/skins/mccree-gambler.jpg"
+},
+{
+"id": "mccree-mystery-man",
+"quality": "legendary",
+"url": "/heroes/mccree/skins/mccree-mystery-man.jpg"
+},
+{
+"id": "mccree-riverboat",
+"quality": "legendary",
+"url": "/heroes/mccree/skins/mccree-riverboat.jpg"
+},
+{
+"id": "mccree-vigilante",
+"quality": "legendary",
+"url": "/heroes/mccree/skins/mccree-vigilante.jpg"
+},
+{
+"id": "mccree-lifeguard",
+"quality": "legendary",
+"url": "/heroes/mccree/skins/mccree-lifeguard.jpg",
+"event": "SUMMER_GAMES",
+"group": "SUMMER_GAMES_2017"
+},
+{
+"id": "mccree-van-helsing",
+"quality": "legendary",
+"url": "/heroes/mccree/skins/mccree-van-helsing.jpg",
+"event": "HALLOWEEN",
+"group": "HALLOWEEN_2017"
+},
+{
+"id": "mccree-magistrate",
+"quality": "legendary",
+"url": "/heroes/mccree/skins/mccree-magistrate.jpg",
+"event": "LUNAR_NEW_YEAR",
+"group": "LUNAR_NEW_YEAR_2018",
+"isNew": true
+},
+{
+"id": "mccree-blackwatch",
+"quality": "legendary",
+"url": "/heroes/mccree/skins/mccree-blackwatch.jpg",
+"description": "A young Jesse McCree was recruited into Blackwatch after Gabriel Reyes saw his potential and gave him a choice: join Blackwatch, or rot in prison.",
+"event": "UPRISING",
+"group": "UPRISING_2017"
+},
+{
+"id": "mccree-sherlock",
+"quality": "legendary",
+"url": "/heroes/mccree/skins/mccree-sherlock.jpg",
+"description": "\"My mind,\" he said, \"rebels at stagnation. Give me problems, give me work, give me the most abstruse cryptogram or the most intricate analysis, and I am in my proper atmosphere.\"",
+"event": "ANNIVERSARY",
+"group": "ANNIVERSARY_2018",
+"isNew": true
+},
+{
+"id": "mei-abominable",
+"quality": "legendary",
+"url": "/heroes/mei/skins/mei-abominable.jpg",
+"description": "Mei travels to remote regions around the world, investigating ecopoints abandoned since Overwatch was shut down."
+},
+{
+"id": "mei-ecopoint-antarctica",
+"quality": "legendary",
+"url": "/heroes/mei/skins/mei-ecopoint-antarctica.jpg",
+"description": "While she was stationed at Ecopoint: Antarctica, Mei performed research on climate anomalies in the region."
+},
+{
+"id": "mei-firefighter",
+"quality": "legendary",
+"url": "/heroes/mei/skins/mei-firefighter.jpg"
+},
+{
+"id": "mei-rescue-mei",
+"quality": "legendary",
+"url": "/heroes/mei/skins/mei-rescue-mei.jpg"
+},
+{
+"id": "mei-yeti-hunter",
+"quality": "legendary",
+"url": "/heroes/mei/skins/mei-yeti-hunter.jpg",
+"description": "Mei travels to remote regions around the world, investigating ecopoints abandoned since Overwatch was shut down."
+},
+{
+"id": "mei-jiangshi",
+"quality": "legendary",
+"url": "/heroes/mei/skins/mei-jiangshi.jpg",
+"event": "HALLOWEEN",
+"group": "HALLOWEEN_2017"
+},
+{
+"id": "mei-meirry",
+"quality": "legendary",
+"url": "/heroes/mei/skins/mei-meirry.jpg",
+"event": "WINTER_WONDERLAND",
+"group": "WINTER_WONDERLAND_2016"
+},
+{
+"id": "mei-change",
+"quality": "legendary",
+"url": "/heroes/mei/skins/mei-change.jpg",
+"event": "LUNAR_NEW_YEAR",
+"group": "LUNAR_NEW_YEAR_2017"
+},
+{
+"id": "mei-luna",
+"quality": "legendary",
+"url": "/heroes/mei/skins/mei-luna.jpg",
+"event": "LUNAR_NEW_YEAR",
+"group": "LUNAR_NEW_YEAR_2017"
+},
+{
+"id": "mei-pajamei",
+"quality": "legendary",
+"url": "/heroes/mei/skins/mei-pajamei.jpg",
+"description": "Due to a malfunction of Ecopoint: Antarctica's cryogenics facility, Mei was kept in hibernation for almost a decade and woke up to find a new, unfamiliar world.",
+"event": "UPRISING",
+"group": "UPRISING_2018",
+"isNew": true
+},
+{
+"id": "mei-beekeeper",
+"quality": "legendary",
+"url": "/heroes/mei/skins/mei-beekeeper.jpg",
+"event": "ANNIVERSARY",
+"group": "ANNIVERSARY_2017"
+},
+{
+"id": "mercy-devil",
+"quality": "legendary",
+"url": "/heroes/mercy/skins/mercy-devil.jpg"
+},
+{
+"id": "mercy-imp",
+"quality": "legendary",
+"url": "/heroes/mercy/skins/mercy-imp.jpg"
+},
+{
+"id": "mercy-sigrun",
+"quality": "legendary",
+"url": "/heroes/mercy/skins/mercy-sigrun.jpg"
+},
+{
+"id": "mercy-valkyrie",
+"quality": "legendary",
+"url": "/heroes/mercy/skins/mercy-valkyrie.jpg"
+},
+{
+"id": "mercy-pink",
+"quality": "legendary",
+"url": "/heroes/mercy/skins/mercy-pink.jpg",
+"description": "Unlocked with purchase of Pink charity skin",
+"achievement": "bcrf"
+},
+{
+"id": "mercy-winged-victory",
+"quality": "legendary",
+"url": "/heroes/mercy/skins/mercy-winged-victory.jpg",
+"event": "SUMMER_GAMES",
+"group": "SUMMER_GAMES_2017"
+},
+{
+"id": "mercy-witch",
+"quality": "legendary",
+"url": "/heroes/mercy/skins/mercy-witch.jpg",
+"description": "The Witch of the Wilds is a mysterious figure who appears in the tale of Dr. Junkenstein and others, offering people the object of their desire, for a price.",
+"event": "HALLOWEEN",
+"group": "HALLOWEEN_2016"
+},
+{
+"id": "mercy-sugar-plum-fairy",
+"quality": "legendary",
+"url": "/heroes/mercy/skins/mercy-sugar-plum-fairy.jpg",
+"event": "WINTER_WONDERLAND",
+"group": "WINTER_WONDERLAND_2018",
+"isNew": true
+},
+{
+"id": "mercy-zhuque",
+"quality": "legendary",
+"url": "/heroes/mercy/skins/mercy-zhuque.jpg",
+"event": "LUNAR_NEW_YEAR",
+"group": "LUNAR_NEW_YEAR_2018",
+"isNew": true
+},
+{
+"id": "mercy-combat-medic-ziegler",
+"quality": "legendary",
+"url": "/heroes/mercy/skins/mercy-combat-medic-ziegler.jpg",
+"description": "When called upon, Mercy would don her Valkyrie swift-response suit to participate in Overwatch missions.",
+"event": "UPRISING",
+"group": "UPRISING_2017"
+},
+{
+"id": "moira-glam",
+"quality": "legendary",
+"url": "/heroes/moira/skins/moira-glam.jpg"
+},
+{
+"id": "moira-minister",
+"quality": "legendary",
+"url": "/heroes/moira/skins/moira-minister.jpg",
+"description": "Thanks to her brilliance and their shared desire to achieve scientific advancement at any cost, the founders of Oasis invited her to join them as their Minister of Genetics."
+},
+{
+"id": "moira-moon",
+"quality": "legendary",
+"url": "/heroes/moira/skins/moira-moon.jpg"
+},
+{
+"id": "moira-oasis",
+"quality": "legendary",
+"url": "/heroes/moira/skins/moira-oasis.jpg",
+"description": "Thanks to her brilliance and their shared desire to achieve scientific advancement at any cost, the founders of Oasis invited her to join them as their Minister of Genetics."
+},
+{
+"id": "moira-banshee",
+"quality": "legendary",
+"url": "/heroes/moira/skins/moira-banshee.jpg",
+"event": "HALLOWEEN",
+"group": "HALLOWEEN_2018",
+"isNew": true
+},
+{
+"id": "moira-blackwatch",
+"quality": "legendary",
+"url": "/heroes/moira/skins/moira-blackwatch.jpg",
+"description": "In addition to her research as a part of Blackwatch, Moira occasionally participated in clandestine operations, including the Venice Incident.",
+"event": "UPRISING",
+"group": "UPRISING_2018",
+"isNew": true
+},
+{
+"id": "orisa-carbon-fiber",
+"quality": "legendary",
+"url": "/heroes/orisa/skins/orisa-carbon-fiber.jpg"
+},
+{
+"id": "orisa-dynastinae",
+"quality": "legendary",
+"url": "/heroes/orisa/skins/orisa-dynastinae.jpg"
+},
+{
+"id": "orisa-immortal",
+"quality": "legendary",
+"url": "/heroes/orisa/skins/orisa-immortal.jpg"
+},
+{
+"id": "orisa-megasoma",
+"quality": "legendary",
+"url": "/heroes/orisa/skins/orisa-megasoma.jpg"
+},
+{
+"id": "orisa-protector",
+"quality": "legendary",
+"url": "/heroes/orisa/skins/orisa-protector.jpg"
+},
+{
+"id": "orisa-null-sector",
+"quality": "legendary",
+"url": "/heroes/orisa/skins/orisa-null-sector.jpg",
+"description": "During the King's Row Uprising, Null Sector employed redesigned and upgraded OR14 Idina bots to secure the power station.",
+"event": "UPRISING",
+"group": "UPRISING_2017"
+},
+{
+"id": "orisa-forest-spirit",
+"quality": "legendary",
+"url": "/heroes/orisa/skins/orisa-forest-spirit.jpg",
+"event": "ANNIVERSARY",
+"group": "ANNIVERSARY_2018",
+"isNew": true
+},
+{
+"id": "orisa-puppy",
+"quality": "legendary",
+"url": "/heroes/orisa/emotes/orisa-puppy.webm",
+"event": "WINTER_WONDERLAND",
+"group": "WINTER_WONDERLAND_2017"
+},
+{
+"id": "pharah-asp",
+"quality": "legendary",
+"url": "/heroes/pharah/skins/pharah-asp.jpg"
+},
+{
+"id": "pharah-mechaqueen",
+"quality": "legendary",
+"url": "/heroes/pharah/skins/pharah-mechaqueen.jpg"
+},
+{
+"id": "pharah-raindancer",
+"quality": "legendary",
+"url": "/heroes/pharah/skins/pharah-raindancer.jpg"
+},
+{
+"id": "pharah-raptorion",
+"quality": "legendary",
+"url": "/heroes/pharah/skins/pharah-raptorion.jpg"
+},
+{
+"id": "pharah-thunderbird",
+"quality": "legendary",
+"url": "/heroes/pharah/skins/pharah-thunderbird.jpg"
+},
+{
+"id": "pharah-security-chief",
+"quality": "legendary",
+"url": "/heroes/pharah/skins/pharah-security-chief.jpg",
+"description": "Following a sterling career in the Egyptian armed forces, Pharah joined Helix Security International as one of their chief officers.",
+"achievement": "blizzard"
+},
+{
+"id": "pharah-enchanted-armor",
+"quality": "legendary",
+"url": "/heroes/pharah/skins/pharah-enchanted-armor.jpg",
+"event": "HALLOWEEN",
+"group": "HALLOWEEN_2018",
+"isNew": true
+},
+{
+"id": "pharah-qinglong",
+"quality": "legendary",
+"url": "/heroes/pharah/skins/pharah-qinglong.jpg",
+"event": "LUNAR_NEW_YEAR",
+"group": "LUNAR_NEW_YEAR_2018",
+"isNew": true
+},
+{
+"id": "pharah-bedouin",
+"quality": "legendary",
+"url": "/heroes/pharah/skins/pharah-bedouin.jpg",
+"event": "ANNIVERSARY",
+"group": "ANNIVERSARY_2017"
+},
+{
+"id": "reaper-el-blanco",
+"quality": "legendary",
+"url": "/heroes/reaper/skins/reaper-el-blanco.jpg"
+},
+{
+"id": "reaper-mariachi",
+"quality": "legendary",
+"url": "/heroes/reaper/skins/reaper-mariachi.jpg"
+},
+{
+"id": "reaper-nevermore",
+"quality": "legendary",
+"url": "/heroes/reaper/skins/reaper-nevermore.jpg",
+"description": "Quoth the raven, \"Nevermore.\""
+},
+{
+"id": "reaper-plague-doctor",
+"quality": "legendary",
+"url": "/heroes/reaper/skins/reaper-plague-doctor.jpg"
+},
+{
+"id": "reaper-blackwatch-reyes",
+"quality": "legendary",
+"url": "/heroes/reaper/skins/reaper-blackwatch-reyes.jpg",
+"description": "Gabriel Reyes was the leader of the original Overwatch strike team during the Omnic Crisis, and later commanded Blackwatch, the organization's covert ops division.",
+"achievement": "blizzard"
+},
+{
+"id": "reaper-biker",
+"quality": "legendary",
+"url": "/heroes/reaper/skins/reaper-biker.jpg",
+"event": "SUMMER_GAMES",
+"group": "SUMMER_GAMES_2017"
+},
+{
+"id": "reaper-dracula",
+"quality": "legendary",
+"url": "/heroes/reaper/skins/reaper-dracula.jpg",
+"event": "HALLOWEEN",
+"group": "HALLOWEEN_2017"
+},
+{
+"id": "reaper-pumpkin",
+"quality": "legendary",
+"url": "/heroes/reaper/skins/reaper-pumpkin.jpg",
+"description": "In the tale of Dr. Junkenstein, the Reaper was a servant to the Witch of the Wilds, bound to serve her for some unknown reason.",
+"event": "HALLOWEEN",
+"group": "HALLOWEEN_2016"
+},
+{
+"id": "reaper-soldier-24",
+"quality": "legendary",
+"url": "/heroes/reaper/skins/reaper-soldier-24.jpg",
+"description": "Before serving on the original Overwatch strike team, Gabriel Reyes was selected to be a member of the government's classified soldier enhancement program.",
+"event": "UPRISING",
+"group": "UPRISING_2018",
+"isNew": true
+},
+{
+"id": "reinhardt-balderich",
+"quality": "legendary",
+"url": "/heroes/reinhardt/skins/reinhardt-balderich.jpg",
+"description": "During the Omnic Crisis, Balderich von Adler commanded the German Crusader unit until he was killed at the battle of Eichenwalde."
+},
+{
+"id": "reinhardt-blackhardt",
+"quality": "legendary",
+"url": "/heroes/reinhardt/skins/reinhardt-blackhardt.jpg"
+},
+{
+"id": "reinhardt-bloodhardt",
+"quality": "legendary",
+"url": "/heroes/reinhardt/skins/reinhardt-bloodhardt.jpg"
+},
+{
+"id": "reinhardt-crusader",
+"quality": "legendary",
+"url": "/heroes/reinhardt/skins/reinhardt-crusader.jpg",
+"description": "\"The Hero of Eichenwalde,\" Reinhardt joined the original Overwatch team in the place of his fallen commander, Balderich."
+},
+{
+"id": "reinhardt-greifhardt",
+"quality": "legendary",
+"url": "/heroes/reinhardt/skins/reinhardt-greifhardt.jpg",
+"description": "After the Battle of Eichenwalde, Balderich von Adler's armor remained undisturbed for many years."
+},
+{
+"id": "reinhardt-lionhardt",
+"quality": "legendary",
+"url": "/heroes/reinhardt/skins/reinhardt-lionhardt.jpg"
+},
+{
+"id": "reinhardt-stonehardt",
+"quality": "legendary",
+"url": "/heroes/reinhardt/skins/reinhardt-stonehardt.jpg"
+},
+{
+"id": "reinhardt-gridironhardt",
+"quality": "legendary",
+"url": "/heroes/reinhardt/skins/reinhardt-gridironhardt.jpg",
+"event": "SUMMER_GAMES",
+"group": "SUMMER_GAMES_2018",
+"isNew": true
+},
+{
+"id": "reinhardt-wujing",
+"quality": "legendary",
+"url": "/heroes/reinhardt/skins/reinhardt-wujing.jpg",
+"event": "LUNAR_NEW_YEAR",
+"group": "LUNAR_NEW_YEAR_2017"
+},
+{
+"id": "roadhog-butcher",
+"quality": "legendary",
+"url": "/heroes/roadhog/skins/roadhog-butcher.jpg"
+},
+{
+"id": "roadhog-islander",
+"quality": "legendary",
+"url": "/heroes/roadhog/skins/roadhog-islander.jpg"
+},
+{
+"id": "roadhog-mako",
+"quality": "legendary",
+"url": "/heroes/roadhog/skins/roadhog-mako.jpg"
+},
+{
+"id": "roadhog-sharkbait",
+"quality": "legendary",
+"url": "/heroes/roadhog/skins/roadhog-sharkbait.jpg"
+},
+{
+"id": "roadhog-toa",
+"quality": "legendary",
+"url": "/heroes/roadhog/skins/roadhog-toa.jpg"
+},
+{
+"id": "roadhog-lacrosse",
+"quality": "legendary",
+"url": "/heroes/roadhog/skins/roadhog-lacrosse.jpg",
+"event": "SUMMER_GAMES",
+"group": "SUMMER_GAMES_2018",
+"isNew": true
+},
+{
+"id": "roadhog-junkensteins-monster",
+"quality": "legendary",
+"url": "/heroes/roadhog/skins/roadhog-junkensteins-monster.jpg",
+"description": "Armed with the secret of creating artificial life, Dr. Jamison Junkenstein birthed a monster.",
+"event": "HALLOWEEN",
+"group": "HALLOWEEN_2016"
+},
+{
+"id": "roadhog-ice-fisherman",
+"quality": "legendary",
+"url": "/heroes/roadhog/skins/roadhog-ice-fisherman.jpg",
+"event": "WINTER_WONDERLAND",
+"group": "WINTER_WONDERLAND_2017"
+},
+{
+"id": "roadhog-bajie",
+"quality": "legendary",
+"url": "/heroes/roadhog/skins/roadhog-bajie.jpg",
+"event": "LUNAR_NEW_YEAR",
+"group": "LUNAR_NEW_YEAR_2017"
+},
+{
+"id": "soldier-76-commando-76",
+"quality": "legendary",
+"url": "/heroes/soldier-76/skins/soldier-76-commando-76.jpg",
+"description": "At his first opportunity, a young Jack Morrison enlisted in the American armed forces to defend his country, serving with distinction during the Omnic Crisis."
+},
+{
+"id": "soldier-76-daredevil-76",
+"quality": "legendary",
+"url": "/heroes/soldier-76/skins/soldier-76-daredevil-76.jpg"
+},
+{
+"id": "soldier-76-night-ops-76",
+"quality": "legendary",
+"url": "/heroes/soldier-76/skins/soldier-76-night-ops-76.jpg",
+"description": "At his first opportunity, a young Jack Morrison enlisted in the American armed forces to defend his country, serving with distinction during the Omnic Crisis."
+},
+{
+"id": "soldier-76-stunt-rider-76",
+"quality": "legendary",
+"url": "/heroes/soldier-76/skins/soldier-76-stunt-rider-76.jpg"
+},
+{
+"id": "soldier-76-strike-commander-morrison",
+"quality": "legendary",
+"url": "/heroes/soldier-76/skins/soldier-76-strike-commander-morrison.jpg",
+"description": "After the Omnic Crisis, Jack Morrison was promoted to Strike Commander of Overwatch, leading the organization for decades until it was disbanded.",
+"achievement": "blizzard"
+},
+{
+"id": "soldier-76-grillmaster-76",
+"quality": "legendary",
+"url": "/heroes/soldier-76/skins/soldier-76-grillmaster-76.jpg",
+"event": "SUMMER_GAMES",
+"group": "SUMMER_GAMES_2017"
+},
+{
+"id": "soldier-76-slasher-76",
+"quality": "legendary",
+"url": "/heroes/soldier-76/skins/soldier-76-slasher-76.jpg",
+"event": "HALLOWEEN",
+"group": "HALLOWEEN_2018",
+"isNew": true
+},
+{
+"id": "soldier-76-alpine-76",
+"quality": "legendary",
+"url": "/heroes/soldier-76/skins/soldier-76-alpine-76.jpg",
+"event": "WINTER_WONDERLAND",
+"group": "WINTER_WONDERLAND_2017"
+},
+{
+"id": "soldier-76-cyborg-76",
+"quality": "legendary",
+"url": "/heroes/soldier-76/skins/soldier-76-cyborg-76.jpg",
+"event": "ANNIVERSARY",
+"group": "ANNIVERSARY_2017"
+},
+{
+"id": "sombra-augmented",
+"quality": "legendary",
+"url": "/heroes/sombra/skins/sombra-augmented.jpg"
+},
+{
+"id": "sombra-azucar",
+"quality": "legendary",
+"url": "/heroes/sombra/skins/sombra-azucar.jpg",
+"description": "Orphaned after the Omnic Crisis, a young Sombra found a willing buyer for her hacking ability in Los Muertos."
+},
+{
+"id": "sombra-cyberspace",
+"quality": "legendary",
+"url": "/heroes/sombra/skins/sombra-cyberspace.jpg"
+},
+{
+"id": "sombra-los-muertos",
+"quality": "legendary",
+"url": "/heroes/sombra/skins/sombra-los-muertos.jpg",
+"description": "Orphaned after the Omnic Crisis, a young Sombra found a willing buyer for her hacking ability in Los Muertos."
+},
+{
+"id": "sombra-demon-hunter",
+"quality": "legendary",
+"url": "/heroes/sombra/skins/sombra-demon-hunter.jpg",
+"description": "Unlocked as part of the BlizzCon 2018 In-Game Goodies",
+"achievement": "blizzard"
+},
+{
+"id": "sombra-tulum",
+"quality": "legendary",
+"url": "/heroes/sombra/skins/sombra-tulum.jpg",
+"event": "SUMMER_GAMES",
+"group": "SUMMER_GAMES_2017"
+},
+{
+"id": "sombra-bride",
+"quality": "legendary",
+"url": "/heroes/sombra/skins/sombra-bride.jpg",
+"event": "HALLOWEEN",
+"group": "HALLOWEEN_2018",
+"isNew": true
+},
+{
+"id": "sombra-rime",
+"quality": "legendary",
+"url": "/heroes/sombra/skins/sombra-rime.jpg",
+"event": "WINTER_WONDERLAND",
+"group": "WINTER_WONDERLAND_2017"
+},
+{
+"id": "sombra-talon",
+"quality": "legendary",
+"url": "/heroes/sombra/skins/sombra-talon.jpg",
+"description": "Sombra is only too happy to utilize the power and reach of Talon while pursuing her own goals.",
+"event": "UPRISING",
+"group": "UPRISING_2018",
+"isNew": true
+},
+{
+"id": "symmetra-architech",
+"quality": "legendary",
+"url": "/heroes/symmetra/skins/symmetra-architech.jpg",
+"description": "Noticed at a young age for her potential in the area of hard-light engineering, Satya Vaswani was placed in the Vishkar Corporation's academy to become a future architech."
+},
+{
+"id": "symmetra-devi",
+"quality": "legendary",
+"url": "/heroes/symmetra/skins/symmetra-devi.jpg"
+},
+{
+"id": "symmetra-goddess",
+"quality": "legendary",
+"url": "/heroes/symmetra/skins/symmetra-goddess.jpg"
+},
+{
+"id": "symmetra-vishkar",
+"quality": "legendary",
+"url": "/heroes/symmetra/skins/symmetra-vishkar.jpg",
+"description": "As one of the Vishkar Corporation's most talented architechs, Symmetra was dispatched to Rio de Janeiro to oversee their new development efforts."
+},
+{
+"id": "symmetra-dragon",
+"quality": "legendary",
+"url": "/heroes/symmetra/skins/symmetra-dragon.jpg",
+"description": "As the tales tell, the Witch of the Wilds had many powerful allies, including the draconic summoner.",
+"event": "HALLOWEEN",
+"group": "HALLOWEEN_2017"
+},
+{
+"id": "symmetra-figure-skater",
+"quality": "legendary",
+"url": "/heroes/symmetra/skins/symmetra-figure-skater.jpg",
+"event": "WINTER_WONDERLAND",
+"group": "WINTER_WONDERLAND_2018",
+"isNew": true
+},
+{
+"id": "symmetra-magician",
+"quality": "legendary",
+"url": "/heroes/symmetra/skins/symmetra-magician.jpg",
+"event": "ANNIVERSARY",
+"group": "ANNIVERSARY_2018",
+"isNew": true
+},
+{
+"id": "symmetra-oasis",
+"quality": "legendary",
+"url": "/heroes/symmetra/skins/symmetra-oasis.jpg",
+"event": "ANNIVERSARY",
+"group": "ANNIVERSARY_2017"
+},
+{
+"id": "torbjorn-barbarossa",
+"quality": "legendary",
+"url": "/heroes/torbjorn/skins/torbjorn-barbarossa.jpg"
+},
+{
+"id": "torbjorn-blackbeard",
+"quality": "legendary",
+"url": "/heroes/torbjorn/skins/torbjorn-blackbeard.jpg"
+},
+{
+"id": "torbjorn-chopper",
+"quality": "legendary",
+"url": "/heroes/torbjorn/skins/torbjorn-chopper.jpg"
+},
+{
+"id": "torbjorn-deadlock",
+"quality": "legendary",
+"url": "/heroes/torbjorn/skins/torbjorn-deadlock.jpg"
+},
+{
+"id": "torbjorn-magni",
+"quality": "legendary",
+"url": "/heroes/torbjorn/skins/torbjorn-magni.jpg"
+},
+{
+"id": "torbjorn-viking",
+"quality": "legendary",
+"url": "/heroes/torbjorn/skins/torbjorn-viking.jpg",
+"description": "After his village was burned by a dragon's fire, the viking now travels the world, hunting them.",
+"event": "HALLOWEEN",
+"group": "HALLOWEEN_2017"
+},
+{
+"id": "torbjorn-santaclad",
+"quality": "legendary",
+"url": "/heroes/torbjorn/skins/torbjorn-santaclad.jpg",
+"description": "At the gentle urging of his wife, Ingrid, Torbjörn dresses up as Santa for the Lindholm holiday celebrations.",
+"event": "WINTER_WONDERLAND",
+"group": "WINTER_WONDERLAND_2016"
+},
+{
+"id": "torbjorn-chief-engineer-lindholm",
+"quality": "legendary",
+"url": "/heroes/torbjorn/skins/torbjorn-chief-engineer-lindholm.jpg",
+"description": "For many years, Torbjörn Lindholm served as Overwatch's chief engineer, designing many of the organization's iconic weapons and technologies.",
+"event": "UPRISING",
+"group": "UPRISING_2017"
+},
+{
+"id": "torbjorn-ironclad",
+"quality": "legendary",
+"url": "/heroes/torbjorn/skins/torbjorn-ironclad.jpg",
+"event": "UPRISING",
+"group": "UPRISING_2017"
+},
+{
+"id": "torbjorn-cybjorn",
+"quality": "legendary",
+"url": "/heroes/torbjorn/skins/torbjorn-cybjorn.jpg",
+"event": "ANNIVERSARY",
+"group": "ANNIVERSARY_2018",
+"isNew": true
+},
+{
+"id": "tracer-mach-t",
+"quality": "legendary",
+"url": "/heroes/tracer/skins/tracer-mach-t.jpg"
+},
+{
+"id": "tracer-punk",
+"quality": "legendary",
+"url": "/heroes/tracer/skins/tracer-punk.jpg"
+},
+{
+"id": "tracer-t-racer",
+"quality": "legendary",
+"url": "/heroes/tracer/skins/tracer-t-racer.jpg"
+},
+{
+"id": "tracer-ultraviolet",
+"quality": "legendary",
+"url": "/heroes/tracer/skins/tracer-ultraviolet.jpg"
+},
+{
+"id": "tracer-slipstream",
+"quality": "legendary",
+"url": "/heroes/tracer/skins/tracer-slipstream.jpg",
+"description": "Before becoming an active agent of Overwatch, Tracer was a test pilot, until a mishap with the prototype Slipstream teleporting fighter.",
+"achievement": "blizzard"
+},
+{
+"id": "tracer-sprinter",
+"quality": "legendary",
+"url": "/heroes/tracer/skins/tracer-sprinter.jpg",
+"event": "SUMMER_GAMES",
+"group": "SUMMER_GAMES_2016"
+},
+{
+"id": "tracer-track-and-field",
+"quality": "legendary",
+"url": "/heroes/tracer/skins/tracer-track-and-field.jpg",
+"event": "SUMMER_GAMES",
+"group": "SUMMER_GAMES_2016"
+},
+{
+"id": "tracer-jingle",
+"quality": "legendary",
+"url": "/heroes/tracer/skins/tracer-jingle.jpg",
+"event": "WINTER_WONDERLAND",
+"group": "WINTER_WONDERLAND_2016"
+},
+{
+"id": "tracer-cadet-oxton",
+"quality": "legendary",
+"url": "/heroes/tracer/skins/tracer-cadet-oxton.jpg",
+"description": "Tracer was put into active duty as an Overwatch agent for the first time during the King's Row uprising.",
+"event": "UPRISING",
+"group": "UPRISING_2017"
+},
+{
+"id": "tracer-graffiti",
+"quality": "legendary",
+"url": "/heroes/tracer/skins/tracer-graffiti.jpg",
+"event": "ANNIVERSARY",
+"group": "ANNIVERSARY_2017"
+},
+{
+"id": "widowmaker-comtesse",
+"quality": "legendary",
+"url": "/heroes/widowmaker/skins/widowmaker-comtesse.jpg",
+"description": "The historical motto of the Guillard family was, \"Chasseurs toujours.\""
+},
+{
+"id": "widowmaker-huntress",
+"quality": "legendary",
+"url": "/heroes/widowmaker/skins/widowmaker-huntress.jpg"
+},
+{
+"id": "widowmaker-nova",
+"quality": "legendary",
+"url": "/heroes/widowmaker/skins/widowmaker-nova.jpg"
+},
+{
+"id": "widowmaker-odette",
+"quality": "legendary",
+"url": "/heroes/widowmaker/skins/widowmaker-odette.jpg",
+"description": "For much of her life, Amélie Lacroix was better known as an accomplished ballet dancer in Paris."
+},
+{
+"id": "widowmaker-odile",
+"quality": "legendary",
+"url": "/heroes/widowmaker/skins/widowmaker-odile.jpg",
+"description": "For much of her life, Amélie Lacroix was better known as an accomplished ballet dancer in Paris."
+},
+{
+"id": "widowmaker-kerrigan",
+"quality": "legendary",
+"url": "/heroes/widowmaker/skins/widowmaker-kerrigan.jpg",
+"description": "Unlocked as part of the StarCraft 20th Anniversary Celebration",
+"achievement": "blizzard"
+},
+{
+"id": "widowmaker-noire",
+"quality": "legendary",
+"url": "/heroes/widowmaker/skins/widowmaker-noire.jpg",
+"description": "Unlocked by pre-purchasing Overwatch",
+"achievement": "blizzard"
+},
+{
+"id": "widowmaker-cote-dazur",
+"quality": "legendary",
+"url": "/heroes/widowmaker/skins/widowmaker-cote-dazur.jpg",
+"event": "SUMMER_GAMES",
+"group": "SUMMER_GAMES_2017"
+},
+{
+"id": "widowmaker-biathlon",
+"quality": "legendary",
+"url": "/heroes/widowmaker/skins/widowmaker-biathlon.jpg",
+"event": "WINTER_WONDERLAND",
+"group": "WINTER_WONDERLAND_2018",
+"isNew": true
+},
+{
+"id": "widowmaker-black-lily",
+"quality": "legendary",
+"url": "/heroes/widowmaker/skins/widowmaker-black-lily.jpg",
+"event": "LUNAR_NEW_YEAR",
+"group": "LUNAR_NEW_YEAR_2018",
+"isNew": true
+},
+{
+"id": "widowmaker-talon",
+"quality": "legendary",
+"url": "/heroes/widowmaker/skins/widowmaker-talon.jpg",
+"event": "UPRISING",
+"group": "UPRISING_2017"
+},
+{
+"id": "winston-explorer",
+"quality": "legendary",
+"url": "/heroes/winston/skins/winston-explorer.jpg"
+},
+{
+"id": "winston-frogston",
+"quality": "legendary",
+"url": "/heroes/winston/skins/winston-frogston.jpg"
+},
+{
+"id": "winston-safari",
+"quality": "legendary",
+"url": "/heroes/winston/skins/winston-safari.jpg"
+},
+{
+"id": "winston-undersea",
+"quality": "legendary",
+"url": "/heroes/winston/skins/winston-undersea.jpg"
+},
+{
+"id": "winston-catcher",
+"quality": "legendary",
+"url": "/heroes/winston/skins/winston-catcher.jpg",
+"event": "SUMMER_GAMES",
+"group": "SUMMER_GAMES_2018",
+"isNew": true
+},
+{
+"id": "winston-yeti",
+"quality": "legendary",
+"url": "/heroes/winston/skins/winston-yeti.jpg",
+"event": "WINTER_WONDERLAND",
+"group": "WINTER_WONDERLAND_2016"
+},
+{
+"id": "winston-wukong",
+"quality": "legendary",
+"url": "/heroes/winston/skins/winston-wukong.jpg",
+"event": "LUNAR_NEW_YEAR",
+"group": "LUNAR_NEW_YEAR_2017"
+},
+{
+"id": "winston-specimen-28",
+"quality": "legendary",
+"url": "/heroes/winston/skins/winston-specimen-28.jpg",
+"description": "The gorilla known as Specimen 28 showed rapid brain development from genetic therapy, surpassing that of the other subjects.",
+"event": "UPRISING",
+"group": "UPRISING_2018",
+"isNew": true
+},
+{
+"id": "wrecking-ball-horizon",
+"quality": "legendary",
+"url": "/heroes/wrecking-ball/skins/wrecking-ball-horizon.jpg",
+"description": "Hammond fled the Horizon Lunar Colony by constructing a makeshift escape pod and secretly anchoring it to Winston's craft."
+},
+{
+"id": "wrecking-ball-junker",
+"quality": "legendary",
+"url": "/heroes/wrecking-ball/skins/wrecking-ball-junker.jpg",
+"description": "Wrecking Ball climbed the ranks to become the champion of the Scrapyard, Junkertown's mech combat arena."
+},
+{
+"id": "wrecking-ball-lunar",
+"quality": "legendary",
+"url": "/heroes/wrecking-ball/skins/wrecking-ball-lunar.jpg",
+"description": "Hammond fled the Horizon Lunar Colony by constructing a makeshift escape pod and secretly anchoring it to Winston's craft."
+},
+{
+"id": "wrecking-ball-mayham",
+"quality": "legendary",
+"url": "/heroes/wrecking-ball/skins/wrecking-ball-mayham.jpg",
+"description": "Wrecking Ball climbed the ranks to become the champion of the Scrapyard, Junkertown's mech combat arena."
+},
+{
+"id": "wrecking-ball-jackolantern",
+"quality": "legendary",
+"url": "/heroes/wrecking-ball/skins/wrecking-ball-jackolantern.jpg",
+"event": "HALLOWEEN",
+"group": "HALLOWEEN_2018",
+"isNew": true
+},
+{
+"id": "zarya-arctic",
+"quality": "legendary",
+"url": "/heroes/zarya/skins/zarya-arctic.jpg",
+"description": "After her retirement from competition, Zarya enlisted in the Russian defense forces and was deployed to the Krasnoyarsk front in Siberia."
+},
+{
+"id": "zarya-barbarian",
+"quality": "legendary",
+"url": "/heroes/zarya/skins/zarya-barbarian.jpg"
+},
+{
+"id": "zarya-cybergoth",
+"quality": "legendary",
+"url": "/heroes/zarya/skins/zarya-cybergoth.jpg"
+},
+{
+"id": "zarya-industrial",
+"quality": "legendary",
+"url": "/heroes/zarya/skins/zarya-industrial.jpg"
+},
+{
+"id": "zarya-siberian-front",
+"quality": "legendary",
+"url": "/heroes/zarya/skins/zarya-siberian-front.jpg",
+"description": "After her retirement from competition, Zarya enlisted in the Russian defense forces and was deployed to the Krasnoyarsk front in Siberia."
+},
+{
+"id": "zarya-champion",
+"quality": "legendary",
+"url": "/heroes/zarya/skins/zarya-champion.jpg",
+"description": "A champion weightlifter in her home country, Zarya retired on the eve of the world championships to enlist in the Russian defense forces.",
+"event": "SUMMER_GAMES",
+"group": "SUMMER_GAMES_2016"
+},
+{
+"id": "zarya-weightlifter",
+"quality": "legendary",
+"url": "/heroes/zarya/skins/zarya-weightlifter.jpg",
+"description": "A champion weightlifter in her home country, Zarya retired on the eve of the world championships to enlist in the Russian defense forces.",
+"event": "SUMMER_GAMES",
+"group": "SUMMER_GAMES_2016"
+},
+{
+"id": "zarya-totally-80s",
+"quality": "legendary",
+"url": "/heroes/zarya/skins/zarya-totally-80s.jpg",
+"event": "HALLOWEEN",
+"group": "HALLOWEEN_2017"
+},
+{
+"id": "zarya-snowboarder",
+"quality": "legendary",
+"url": "/heroes/zarya/skins/zarya-snowboarder.jpg",
+"event": "WINTER_WONDERLAND",
+"group": "WINTER_WONDERLAND_2018",
+"isNew": true
+},
+{
+"id": "zarya-xuanwu",
+"quality": "legendary",
+"url": "/heroes/zarya/skins/zarya-xuanwu.jpg",
+"event": "LUNAR_NEW_YEAR",
+"group": "LUNAR_NEW_YEAR_2018",
+"isNew": true
+},
+{
+"id": "zarya-cyberian",
+"quality": "legendary",
+"url": "/heroes/zarya/skins/zarya-cyberian.jpg",
+"event": "ANNIVERSARY",
+"group": "ANNIVERSARY_2017"
+},
+{
+"id": "zarya-mystery-gift",
+"quality": "legendary",
+"url": "/heroes/zarya/emotes/zarya-mystery-gift.webm",
+"event": "WINTER_WONDERLAND",
+"group": "WINTER_WONDERLAND_2016"
+},
+{
+"id": "zenyatta-djinnyatta",
+"quality": "legendary",
+"url": "/heroes/zenyatta/skins/zenyatta-djinnyatta.jpg"
+},
+{
+"id": "zenyatta-ifrit",
+"quality": "legendary",
+"url": "/heroes/zenyatta/skins/zenyatta-ifrit.jpg"
+},
+{
+"id": "zenyatta-ra",
+"quality": "legendary",
+"url": "/heroes/zenyatta/skins/zenyatta-ra.jpg"
+},
+{
+"id": "zenyatta-sunyatta",
+"quality": "legendary",
+"url": "/heroes/zenyatta/skins/zenyatta-sunyatta.jpg"
+},
+{
+"id": "zenyatta-fastball",
+"quality": "legendary",
+"url": "/heroes/zenyatta/skins/zenyatta-fastball.jpg",
+"event": "SUMMER_GAMES",
+"group": "SUMMER_GAMES_2018",
+"isNew": true
+},
+{
+"id": "zenyatta-cultist",
+"quality": "legendary",
+"url": "/heroes/zenyatta/skins/zenyatta-cultist.jpg",
+"event": "HALLOWEEN",
+"group": "HALLOWEEN_2017"
+},
+{
+"id": "zenyatta-nutcracker",
+"quality": "legendary",
+"url": "/heroes/zenyatta/skins/zenyatta-nutcracker.jpg",
+"event": "WINTER_WONDERLAND",
+"group": "WINTER_WONDERLAND_2016"
+},
+{
+"id": "zenyatta-sanzang",
+"quality": "legendary",
+"url": "/heroes/zenyatta/skins/zenyatta-sanzang.jpg",
+"event": "LUNAR_NEW_YEAR",
+"group": "LUNAR_NEW_YEAR_2017"
+}
+]
+}
